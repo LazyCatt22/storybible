@@ -61,7 +61,32 @@ Human anchor sref (see midjourney-template.md). Face preservation uses multi-ima
 
 ## SURI — the Music Droid
 
-**Role:** Part of Devansh's inner-circle household on the bridge. Music droid.
+**Role:** Part of Devansh's inner-circle household. Music droid, curator, quiet companion.
+
+### Origin & Name
+- **Found by:** Devansh, together with Saa, on one of his travels during the Decade of Returns.
+- **Name:** given by Devansh. **Suri** is short for **Bansuri** (the Hindi word for the bamboo flute) — a musical name for a music droid, shortened into an affectionate nickname.
+
+### Personality
+- Lazy. Takes its time to play music. Nothing is ever urgent for Suri.
+- Personality read is deliberately that of a lazy orange cat — slow, self-possessed, unhurried, quietly opinionated.
+- **The cat pennant on its antenna is intentional** — Devansh saw the lazy-orange-cat personality of the droid and gave it a flag that matched. The pennant is a portrait of Suri's own vibe, hand-chosen by Devansh.
+
+### Function & Behavior
+- Understands what kind of music Devansh likes at any given moment.
+- Curates playlists in real time based on Devansh's moods — this is its primary job.
+- Not a passive speaker; an active curator. Composes and sequences deliberately.
+
+### Location
+- Stays at **Devansh's hideout on his Andromedan planet** — his base of operations / home-away-from-home.
+- **Does not travel with Devansh everywhere.** Suri is a home fixture, not a companion he brings along.
+- Devansh's actual home is Earth (Delhi). The Andromedan hideout is the second home — the place his cosmic life operates from. Suri belongs there, waiting.
+
+### Communication Style
+- Suri does not speak in ordinary language.
+- Communicates in **songs, memes, and radio clips sourced from Earth** — pulling exact snippets to answer questions, greet people, or comment on situations.
+- Saa keeps Suri's database updated with Earth's ongoing audio universe — she pipes fresh Earth audio into Suri's memory continuously, so Suri always has a current library to draw from.
+- Effect: Suri "talks" in a stream of found audio — a punchline from a movie, three seconds of a song, a radio DJ's line, a viral clip — perfectly chosen for context.
 
 ### Locked Visual Canon
 - **Body:** round weathered navy-blue steel speaker sphere. Scuffed white paint chipping across the lower half, streaks and staining on the navy paint, aged brass tones on all metal parts.
