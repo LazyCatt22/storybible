@@ -278,6 +278,18 @@ TASK: [as above]
 
 Naming the role of each image is critical — otherwise the model averages them.
 
+### Always state which image is which, and its role (hard rule)
+
+Every prompt with more than one attached image MUST open by labelling each image and assigning it a single, explicit role. Never assume the model knows which attachment is the base and which is the source. The pattern that works:
+
+- **Name each image by number and give it ONE job.** e.g. `Image 1: the base scene — everything here stays as it is except the change below. Image 2: the SOLE authority for [the character / the object / the room detail being pulled in].`
+- **Split base vs. authority.** In a composite or fix, one image is the base you preserve pixel-for-pixel; another is the authority for the one thing being added or corrected. Say which is which in plain words.
+- **Pin each element to the image it comes from.** "Copy the sofa and its position from Image 1; reproduce the droid exactly from Image 2." Don't let a feature float between references.
+- **If an image is only for one detail, say so.** e.g. `Image 2: used ONLY to restore the ladders to their full shape — nothing else from Image 2 is used.`
+- **When you flip which image is authoritative** (e.g. going back to a clean master to re-add one element), restate the roles from scratch — the model does not carry roles over from a previous prompt.
+
+Skipping this is the single most common cause of a good reference getting "averaged" into mush or the wrong image being treated as the base.
+
 ---
 
 ## Consistency Habits
