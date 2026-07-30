@@ -159,11 +159,28 @@ Longer journeys exist (Halven pilgrimage, deep-frontier deployment, off-network 
 
 ### Four terminal districts inside Soren-en
 
-Each crescent-tip terminal is its own neighbourhood:
+**Each crescent-tip terminal takes its character from the planet it connects to.** Therrad is the institutional heart of three of the four Velakhar pillars (Marthar HQ, Kharvurn-thuun's seat, Korven head command + Drennvar vault + Therrad School of Engineering + the Fall); the moon-analog is industrial; the third planet is naturally habitable and residential — the *civilian* planet of the system; Halven is holy. The terminals inside Soren-en mirror this.
 
-- **Therrad Gate Terminal (upper-left):** largest, busiest, civilian-heavy. Commuters, families, artists, merchants, multiple markets and restaurants, temple annexes. Feels like a proper city district.
-- **Moon-analog Gate Terminal (lower-left):** industrial. Extraction workers, machinery cargo, coveralls, harder edges.
-- **Third-planet Gate Terminal (upper-right):** quieter, more residential in feel. Families rotating to and from the naturally-habitable third planet, small temples, agricultural cargo.
-- **Halven Gate Terminal (lower-right):** the sacred district. Pilgrimage traffic, Vaeltharn priests, novice students moving to Halven Temple schools. Quiet, restrained, incense somewhere in the air. The Kharvurn detachment here is the most senior of the four — Halven-gate transit is Vaeltharn priority.
+- **Therrad Gate Terminal (upper-left) — INSTITUTIONAL.** *The* gate where the order's business moves. Marthar recruits in ceremonial dress heading to first training. Kharvurn crews rotating in from deep-sector patrols, some who have not seen Therrad in four years. Korven engineers moving in and out of Drennvar assignments. Classified freight under Drennvar guard. The Marthar-thuun and the Kharvurn-thuun arriving for Sevhar sessions with escort. Novices heading to the Therrad School of Engineering. Disciplined, ceremonial, quietly heavy. Kharvurn ground defenses are the largest of the four terminals. Very little civilian traffic — this is a *pillar traffic* gate.
+- **Moon-analog Gate Terminal (lower-left) — INDUSTRIAL.** Extraction workers in coveralls, shift changes, six-month rotations, machinery cargo, resource freight, tired faces. Nobody goes here for pleasure.
+- **Third-planet Gate Terminal (upper-right) — CIVILIAN.** *This* is where the everyday of Velakhar life passes through. Grandmothers visiting grandchildren. Farmers bringing produce for Soren-en's markets. Wedding parties. Funeral processions. Small temples in the terminal district. Agricultural cargo flowing outbound (food for Soren-en's ~300–500M and for Therrad's institutional population). Ordinary families going about ordinary lives.
+- **Halven Gate Terminal (lower-right) — SACRED.** Pilgrimage traffic, Vaeltharn priests, novice students moving to Halven Temple schools. Quiet, restrained, incense somewhere in the air. The Kharvurn detachment here is the most senior of the four — Halven-gate transit is Vaeltharn priority.
+
+### The megastructure is four cities in one
+
+**Soren-en's atmosphere is not uniform.** Each crescent quarter carries the character of its partner planet:
+
+- **Upper-left (Therrad Terminal district)** — institutional face. Military, engineering, disciplined.
+- **Upper-right (Third-planet Terminal district)** — civilian face. Markets, families, everyday commerce.
+- **Lower-left (Moon-analog Terminal district)** — industrial face. Hard, functional.
+- **Lower-right (Halven Terminal district)** — sacred face. Quiet, ritual, restrained.
+
+**Cultural mixing happens at the middle, not at the terminals.** Soren-en's civic center — Sevhar chamber, Leadership offices, the great Temple, the Kharvurn shipyards, the waist docking bay — sits at the geometric middle of the megastructure, accessible from any of the four terminals via the inter-tip vacuum tubes. A person from Therrad and a person from the third planet are most likely to meet each other in the *middle* of Soren-en, not at each other's gate terminals. This is where Soren-en's cosmopolitan character actually lives.
+
+**The Vaeltharn's grip is different in each district.** Strongest at Halven Terminal. Contested at Third-planet Terminal — civilian traffic is where the cultural loosening from Entry #3 shows most clearly. Nominal at Therrad Terminal (military discipline substitutes for Temple discipline). Nominal at Moon-analog Terminal (workers pray but the Temple isn't heavy there). This distribution matters for the Vaeltharn vs. Leadership tension.
+
+### One correction to Voren's example journey
+
+Voren the Korven engineer lives on Therrad — because Korven head command is there and Korven engineers of her rank live in the households around that institutional center. Therrad has neighborhoods full of families of Marthar officers, Kharvurn crew, Korven engineers, and staff of the Therrad School of Engineering — but these are **military-family households**, not the general civilian population of the system. When Voren transits through the Therrad Gate Terminal, she is moving *through her own pillar's institutional gate* and has priority processing because she is Korven staff traveling on Korven orders. Her day feels like a soldier's day, not a commuter's day. The general civilian character of Velakhar life passes through the Third-planet Gate Terminal on the other side of the megastructure — a terminal Voren rarely enters unless her assignment routes her through it.
 
 ---
