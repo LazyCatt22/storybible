@@ -341,6 +341,47 @@ Each crescent body — the ~700 km stretch from tip to waist — is *its own cit
 
 **A Velakhar born in a Soren-en residential district might live their whole life without going near a gate terminal or the waist docking bay.** They know their local neighborhood, their local Temple annex, their local market. The gate terminals are for travelers; the waist is for civic business.
 
+### Two layers of life in Soren-en — institutional austerity, civilian warmth
+
+An earlier draft framed Soren-en's interior aesthetic as monolithically austere — matte grays, silence, absence of ornament, prayer-cloth marks on every surface — anchored to the bible line *"heavy, defensive, designed to last — ugly to Imperial visitors, enduring to Velakhar."* That framing was wrong for the main story. It missed Entry #3's cultural loosening in the last 200 years and it missed the ordinary humanity of 400 million people who live inside the megastructure. Devansh would not approve of the version I described. He grew up in Delhi. He knows what a market smells like. If he walks through a Soren-en civilian district and it looks like a Marthar barracks stretched over hundreds of millions of people, he would hate it — and he would be right to.
+
+Velakhar culture holds two things at once, and the earlier framing collapsed them into one:
+
+**Layer 1 — institutional and elite.** Sevhar, Great Temple, Leadership head office, Kharvurn shipyards, Drennvar vault, Marthar training installations. This layer is genuinely disciplined, weighted, ceremonial, austere. Elite officers, senior clergy, Lan-kar carry the old discipline personally. Public ceremony is solemn. This layer holds.
+
+**Layer 2 — civilian, everyday, ordinary.** Where the ~300–500 million residents actually live. Markets, restaurants, homes, wedding halls, playgrounds, small Temple annexes, parks, cafés, workshops. **This layer is alive.** Especially in the last 200 years, post-Choir peace dividend. Real-world anchor is not a Marthar barracks; it is closer to Tel Aviv, Sikh Amritsar, or post-war Berlin — societies with real militarized backbones and enormous cultural warmth on top of them. Discipline serves the war. Life happens between wars.
+
+**What the civilian districts actually look like:**
+
+- **Color.** Not everywhere — Velakhar restraint holds in institutional zones — but in residential districts, markets, restaurants, the atria walls carry warm tones. Reds, ochres, deep golds, soft blues, occasional greens. Storefronts painted in their own colors. Personal aircars in the last 200 years increasingly personalized by their owners — younger Velakhar paint theirs, mount small ornaments, hang prayer-cloths in cabin windows that mix family history with actual aesthetic pleasure.
+- **Noise.** Markets are noisy — vendors calling out, families arguing over prices, children running, food sizzling. The emotional dampening is a *combat* discipline, calibrated against Choir voice-attacks; it does not mean Velakhar sit in silence at dinner. Ordinary volume is ordinary. A newcomer would notice the *pattern* of quiet at certain moments — before prayer, at the recitation of dead names, during ritual times — but between those moments, life sounds like life.
+- **Music.** Instrumental music has expanded significantly in the last two centuries. Valkry forbids sustained sung vowels; instruments are unrestricted. Cafés play stringed instruments, wind ensembles, percussion. Music drifts from restaurant doors, from evening plazas, from young Velakhar practicing in residential courtyards. The Vaeltharn elders find some of it too indulgent and say so; younger Velakhar ignore them.
+- **Food.** The bible's *food plain, clothing functional* was true for the frontier and the elite tier. In Soren-en's civilian districts of the main story, food has become one of the great pleasures. Markets sell produce from the third planet, spices from trade contacts through smugglers, meat and grain from Therrad's agricultural belt. Restaurants exist and are popular. Ordinary Velakhar know what a good meal is. Family dinners are real events. Wedding feasts are elaborate.
+- **Clothing.** Institutional dress remains austere — Kharvurn dark coveralls, Marthar working uniforms, Vaeltharn liturgical robes. Civilian clothing has been slowly recovering color and pattern for the last two centuries. Ordinary Velakhar in Soren-en's third-planet-facing district wear things their grandparents would have found frivolous. Nobody arrests them for it.
+- **Ornamentation on buildings.** Institutional structures stay austere. Civilian buildings have started to carry it — carved lintels, decorative window frames, painted door surrounds. Small acts of beauty that would have been unthinkable 400 years ago at the peak of Choir wars.
+- **Play.** Children play. There are playgrounds in residential districts. Adults play — card games in cafés, sports in engineered park spaces, festivals in plazas. The old Marthar in his sixties looks at a group of children racing carts through an atrium underpass and disapproves. The children keep playing. His grown daughter, who is Leadership pillar, quietly funds the playground.
+- **Public celebration.** Weddings, birthdays, homecomings from Kharvurn tours, festivals aligned with the Fall on Therrad or with local Temple calendars. Real celebrations, not solemn observations. Music, food, laughter, drinking. In the last 200 years, celebration has recovered its ordinary human volume.
+
+**What still stays disciplined:**
+
+- **Institutional buildings and ceremonies.** Sevhar sessions are solemn. Great Temple rites are austere. Marthar oath-takings are silent and heavy.
+- **The elite tier personally.** A Vaelkar walking through a market moves in a bubble of quieter behavior — people modulate their volume near her. She notices; she does not comment. A Lan-kar visiting a district is a serious event and the district behaves accordingly.
+- **The recitation of the dead.** Every household still does this. Every child still learns names before letters. The compartment where grief is kept is still there and still cold. Warmth around it does not mean it is gone.
+- **Combat behavior.** The moment discipline is needed — Choir attack (rare now), alien raid, emergency — the warmth vanishes and the Velakhar move like the warriors they trained to be. This is what the emotional dampening is *for*.
+
+**The tension this creates — Book Two spine, real:**
+
+- The Vaeltharn elders read the last 200 years as *drift.* They see civilian districts full of color, music at meals, children painting the family aircar, and they see the discipline that survived a thousand years of Choir wars eroding at the edges. To them this is danger, not health.
+- The Leadership pillar reads the same phenomena as *recovery.* A civilization that survived, that no longer bleeds monthly to Choir attacks, that finally has room to enjoy the peace its ancestors bought. Theven Maad's civic reforms encourage this quietly — she signs the budgets that fund the parks, permits the restaurants, licenses the musicians.
+- **Devansh, if he sees it, agrees with the Leadership.** He has said nothing publicly. He doesn't need to. But the fact that he does not condemn the loosening is itself a signal — the Quiet Lord does not require his people to live in a barracks. The Vaeltharn cannot use his absence as evidence that he would.
+
+**How this changes the vehicles and transit systems described earlier in this entry:**
+
+- Institutional vehicles remain functional and dark (Kharvurn cruisers, Marthar transports, Vaeltharn processions).
+- Public transit — flying buses, moving walkways, vacuum-tube stations — has warmer public design in civilian districts than I originally described. Station interiors have color. Public art appears in the atria of civilian residential zones.
+- Personal aircars carry personalization especially among younger Velakhar. A Korven engineer's aircar might be austere and functional; her twenty-year-old daughter's aircar has a painted door, a family emblem redesigned in a color the elder would find unseemly.
+- The Zenith wall sections and prayer-cloth markers are still present in public spaces — but they are one texture among many, not the whole visual field.
+
 ### Open items surfaced by this entry
 
 - **The Assembly of Worlds.** Does the Velakhar order have a broader representative body beyond the four-person Sevhar? Bible doesn't explicitly lock one. Proposal above treats it as real and physically located near Sevhar in the waist civic core, but this is not locked canon — it's an open design question.
