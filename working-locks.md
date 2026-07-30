@@ -144,7 +144,7 @@ This is the real Velakhar in the main story. Not a monolith. **A civilization th
 
 ### Realistic transit time
 
-Between Velakhar worlds via Soren-en: **~3–4 hours door-to-door.** Not the 12–14 I mistakenly stacked earlier. Voren's canonical journey (Therrad household → moon-analog work site) breaks down roughly as:
+Between Velakhar worlds via Soren-en: **~3–4 hours door-to-door.** Not the 12–14 I mistakenly stacked earlier. Sethven Kavhen's canonical journey (Therrad household → moon-analog work site) breaks down roughly as:
 
 - Household → Therrad spaceport: 10 min light-rail
 - Ferry surface → Therrad orbital gate: 50 min high-thrust boost/coast/decel
@@ -179,8 +179,173 @@ Longer journeys exist (Halven pilgrimage, deep-frontier deployment, off-network 
 
 **The Vaeltharn's grip is different in each district.** Strongest at Halven Terminal. Contested at Third-planet Terminal — civilian traffic is where the cultural loosening from Entry #3 shows most clearly. Nominal at Therrad Terminal (military discipline substitutes for Temple discipline). Nominal at Moon-analog Terminal (workers pray but the Temple isn't heavy there). This distribution matters for the Vaeltharn vs. Leadership tension.
 
-### One correction to Voren's example journey
+### One correction to Sethven Kavhen's example journey
 
-Voren the Korven engineer lives on Therrad — because Korven head command is there and Korven engineers of her rank live in the households around that institutional center. Therrad has neighborhoods full of families of Marthar officers, Kharvurn crew, Korven engineers, and staff of the Therrad School of Engineering — but these are **military-family households**, not the general civilian population of the system. When Voren transits through the Therrad Gate Terminal, she is moving *through her own pillar's institutional gate* and has priority processing because she is Korven staff traveling on Korven orders. Her day feels like a soldier's day, not a commuter's day. The general civilian character of Velakhar life passes through the Third-planet Gate Terminal on the other side of the megastructure — a terminal Voren rarely enters unless her assignment routes her through it.
+Sethven Kavhen the Korven engineer lives on Therrad — because Korven head command is there and Korven engineers of her rank live in the households around that institutional center. Therrad has neighborhoods full of families of Marthar officers, Kharvurn crew, Korven engineers, and staff of the Therrad School of Engineering — but these are **military-family households**, not the general civilian population of the system. When Sethven Kavhen transits through the Therrad Gate Terminal, she is moving *through her own pillar's institutional gate* and has priority processing because she is Korven staff traveling on Korven orders. Her day feels like a soldier's day, not a commuter's day. The general civilian character of Velakhar life passes through the Third-planet Gate Terminal on the other side of the megastructure — a terminal Sethven Kavhen rarely enters unless her assignment routes her through it.
+
+---
+
+## 5. Soren-en Interior — Transit Topology, Waist as Civic Heart, Placement & Volume Math
+
+**Date locked:** 2026-07-30
+**Status:** Provisional between us. Not in bible. Extends and refines Entry #4. Everything here is discussion-grade world-building that shapes how scenes inside Soren-en feel; the specific dimensions and placements are open to revision as we write.
+
+**Why we locked it.** Once Entry #4 placed the four gates at the four crescent tips, the interior geography became a real design problem. Cross-crescent journeys must pass through the waist; the waist is a physically constrained section; the civic center, the transit crossroads, and the shipyards all want to sit there; and there is a real question whether they all fit. This entry works through the topology, the volume math, and where the pieces actually live — including the honest refinement that not everything belongs in the waist.
+
+**Also captures:** the rename from *Voren* to *Sethven Kavhen* for the example Korven engineer. *Voren* was rejected as a lazy name — *vor* is Valkry for the numeral four, so "Voren" was accidentally "Four-en." *Sethven Kavhen* is two syllables each, hard consonants, phonotactically clean Valkry, no lexicon collisions. Entry #4 has been updated to match.
+
+### Transit topology — same-crescent vs cross-crescent
+
+- **Same-crescent journeys are simple.** Anyone going upper-left → lower-left (Therrad → Moon-analog) or upper-right → lower-right (Third-planet → Halven) transits *along one crescent body.* The tube runs straight down the interior of that crescent from tip to tip, roughly 700–800 km. Does not cross the waist.
+- **Cross-crescent journeys must pass through the waist.** Anyone going upper-left → upper-right (Therrad → Third-planet), or upper-left → lower-right (Therrad → Halven), or any of the other diagonal or opposite-side pairs, has to route across the *only* place the two crescents connect — the reinforced spine above and below the waist docking bay.
+
+**This is a feature, not a bug.**
+
+- Cross-crescent transit is a specific act. You are literally crossing the seam that holds the megastructure together.
+- The waist is the transit crossroads *and* the civic center. Every institutional pilgrim, every Korven engineer changing terminals, every priest transiting Halven-to-Third-planet passes through the core of Soren-en.
+- The Leadership and the Vaeltharn arranged the interior around this on purpose. If you control the waist, you control the crossroads of daily Velakhar civic life. Which is why Sevhar, Leadership offices, Great Temple, and Kharvurn operational command are all clustered here.
+
+### The waist as interior heart — what's there
+
+**Above the docking bay** (in the reinforced spine of the megastructure, the mass connecting the two crescents on the upper side):
+
+- **Sevhar Chamber.** The council seats where the four pillar-heads convene. The most weighted room in the Velakhar order. Iconic architecture, probably visible from the transit tube if you know where to look.
+- **The Great Temple of Vaelthun.** The largest Temple outside Halven (bible canon). Vertical cathedral built into the upper spine, prayer halls facing outward across the waist opening so worshippers see the twin stars burning at the horizon during rites.
+- **Leadership head office.** Theven Maad's own institutional seat. Archives, senior tharen quarters, the working core of civic administration.
+- **Assembly of Worlds** (provisional — see Open Items below). Leadership's larger representative body — tharen and delegates from each fully-controlled system and the frontier worlds. Meets less often than Sevhar; where broader civic decisions are ratified. Physically an enormous hall — potentially thousands of seats.
+
+**Below the docking bay** (the reinforced spine on the lower side):
+
+- **Kharvurn shipyards.** Where the fleet's largest vessels are built and repaired. Deep dry docks, drydock canopies, kilometer-scale cranes. Continuous industrial activity.
+- **Kharvurn-thuun's operational offices.** The navy's Soren-en command. Not the pillar's institutional center (that's on Therrad) — this is the operational nerve for fleet movements *from* Soren-en.
+- **Primary industrial districts.** Foundries, refineries, resource processing. Freight elevators moving cargo from the waist port up to distribution nodes throughout the megastructure.
+
+**The waist docking bay itself** — the direct-space port, ~100–150 km wide, 50–80 km thick, multi-level. Open both sides.
+
+### Waist geometry — the real math
+
+Using the revised dimensions from Entry #4 (which stretch the reference visual by ~3–4×), the waist section is roughly:
+
+- **Along the long axis:** ~150 km (waist width, including docking bay + surrounding structure)
+- **Vertical extent (the "thin" waist portion where front-to-back thickness has dropped from the belly's 150–200 km to the waist's revised 50–80 km):** ~150–200 km, centered on the geometric middle of the megastructure
+- **Front-to-back thickness at waist:** revised 50–80 km
+
+**Total waist volume: ~150 km × 175 km × 65 km ≈ 1.7 million km³.**
+
+**Docking bay itself:** ~100 km × 30 km × 30 km ≈ **90,000 km³.**
+
+**Volume remaining in the waist section after subtracting the docking bay: ~1.6 million km³** — roughly half above, half below.
+
+**Real-world anchors for civic buildings:**
+
+| Structure | Volume |
+|---|---|
+| Times Square area (Manhattan) | <1 km³ |
+| UN Headquarters complex (all buildings) | <1 km³ |
+| US Capitol Building | ~0.001 km³ |
+| Vatican City in entirety | ~0.025 km³ |
+| All of Manhattan (60 km² × 0.5 km average building height) | ~30 km³ |
+| Great Pyramid of Giza | ~0.0026 km³ |
+
+**Generous estimates for the Velakhar's biggest civic buildings:**
+
+| Structure | Estimate |
+|---|---|
+| Sevhar Chamber | ~1 km³ (deliberately overbuilt for weight) |
+| Assembly of Worlds hall | 10–20 km³ (thousands of seats + galleries + support wings) |
+| Great Temple of Vaelthun | 50–100 km³ (Manhattan-scale cathedral complex) |
+| Leadership head office (institutional core) | 200–500 km³ (whole institutional district) |
+
+**Civic packet total: ~250–650 km³** — out of ~800,000 km³ available above the docking bay. **~0.04% of available volume.**
+
+**Below-docking-bay industrial packet:**
+
+| Structure | Estimate |
+|---|---|
+| Dreadnought dry docks (~5 km³ each × 10–20 concurrent) | 50–100 km³ |
+| Cruiser dry docks | 20–50 km³ |
+| Foundries, refineries, fabrication halls (civilization scale) | 200–400 km³ |
+| Kharvurn-thuun operational offices | 20–50 km³ |
+| Freight elevators, cargo staging, distribution nodes | 50–100 km³ |
+
+**Industrial packet total: ~350–700 km³** — out of ~800,000 km³ available below the docking bay. Same margin — **well under 1%.**
+
+**The math works, comfortably. There is easily room for the civic hub above the docking bay, the industrial-military complex below the docking bay, and the transit crossroads passing through.**
+
+### Distributed vs waist-centric — the honest refinement
+
+Not everything has to be at the waist. The megastructure is more real if some things are distributed:
+
+**Stays at the waist (institutional co-location required):**
+- Sevhar Chamber
+- Assembly of Worlds
+- Great Temple of Vaelthun
+- Leadership head office
+- Kharvurn shipyards + Kharvurn-thuun operational command
+- The docking bay itself
+- Central transit hub
+
+**Distributed into the crescent bodies:**
+- **Regional Leadership bureaus** — world-specific administrative offices, records archives. Located in the crescent bodies closer to their partner terminals (Therrad affairs administered near the Therrad Terminal district, third-planet affairs near that terminal, etc.). Head office is at the waist; regional offices are distributed.
+- **Temple annexes** — smaller Temples serve residential districts throughout the crescents.
+- **Heavy industrial districts (secondary)** — foundries, refineries, secondary manufacturing distributed into the crescent bodies, especially near the industrial (Moon-analog) terminal. Only the *dry docks* and *primary shipyard fabrication* need to be at the waist.
+- **Residential districts** — almost none of these are at the waist. Most of the 300–500M residents live in the crescent bodies.
+- **Markets, schools, ordinary civic life** — distributed through the crescent residential districts, not concentrated at the waist.
+
+This gives the megastructure the shape of a real city — **civic core at the waist**, **residential and commercial density spread through the crescent bodies** — rather than a tower where everything happens in the middle.
+
+### Cross-crescent transit routes
+
+For any cross-crescent journey, the traveler has options:
+
+1. **Express tube through the upper spine** — bypasses the civic center, fastest, for terminal-to-terminal travel.
+2. **Express tube through the lower spine** — bypasses via the shipyard levels, slightly noisier/rougher, used for industrial and Kharvurn traffic.
+3. **Civic route through the central transit hub** — descends into the civic center, allows disembark at Sevhar viewing galleries, Leadership offices, the Great Temple. The default civilian route for most cross-crescent journeys — because most Velakhar want (or their business requires) some passage through the civic center. Where cultural mixing happens.
+
+**Sethven Kavhen going from Therrad Terminal → Third-planet Terminal on Leadership business** would probably take the civic-route tube. The full journey: upper-left tip → down the left crescent (~600 km) → across the upper spine (~150 km with detour through civic hub) → up the right crescent (~600 km) → arrive at upper-right tip. At 1,500–2,000 km/h vacuum-tube, about **45–60 minutes end-to-end.**
+
+### War vessels and the gates — where dreadnoughts actually go
+
+A **Tharvurn-class dreadnought** is 2,500–4,000 m long. A gate aperture at a crescent tip is 20–40 km. **Physically, a dreadnought fits through the gate with huge margin.** But routinely, they don't use the gates. Two reasons:
+
+1. **Gate terminals are civilian-heavy transit hubs.** Even the Therrad Gate Terminal, which is institutional, isn't built to receive 4 km warships. A dreadnought coming through would displace civilian ferry traffic for hours, disrupt customs operations, block smaller Kharvurn cruisers.
+2. **Shipyards are at the waist, not at the gate terminals.** Once a dreadnought is inside Soren-en, its destination is the waist shipyards. Flying a dreadnought through the megastructure's interior from a crescent-tip terminal to the waist is not a routine operation.
+
+**Routine model:** Kharvurn dreadnoughts return from deep-sector patrol via engine-FTL, drop out into real space near Soren-en, and dock at the **waist direct-space port** — approaching from either side of the megastructure through the 50–80 km center pinch. This is what the waist port is *for*. Smaller Kharvurn vessels (cruisers, escorts, transports) use the gates freely for in-system logistics. Cruisers routinely dock at the Therrad Gate Terminal for rotation cycles.
+
+**Wartime exception:** if the Velakhar need to move dreadnoughts rapidly through the gates for surprise deployment, they can. The apertures allow it. Not routine.
+
+### Interior traffic layers
+
+The interior of Soren-en has stacked traffic systems:
+
+- **Vacuum-tube maglev** — the fastest system. Inter-tip lines, cross-crescent expresses, civic-route hubs. 1,500–2,000 km/h. Underground/embedded within the structural mass.
+- **Elevated flying-lanes** — for personal vehicles, private taxis, executive shuttles, small freight. Multiple altitude bands, automated traffic control, distinct lanes by vehicle class.
+- **Surface pedestrian and civic transit** — the ordinary streets, plazas, moving walkways, elevators. Where people live their lives on foot.
+- **Freight elevators and cargo tubes** — vertical and horizontal, moving cargo between docking levels, industrial districts, and distribution nodes.
+- **Emergency evac routes** — protected, redundant, exist everywhere but used only when the main systems fail or during drills.
+- **Military lanes** — dedicated corridors for Marthar and Kharvurn ground movement, priority Vaeltharn transit, classified Drennvar cargo. Not accessible to civilians.
+
+**Traffic control is automated at a scale humans could not manage manually.** The bible confirms the docking bay uses "autonomous traffic & docking control" — this extends to the whole interior. The Drennvar maintains the automation; nobody fully understands its Zenith substrate.
+
+### The crescent bodies — what's inside between the tip terminals and the waist
+
+Each crescent body — the ~700 km stretch from tip to waist — is *its own city.* Not just tubes and structure. Population lives here. What's inside:
+
+- **Residential districts** for permanent Soren-en residents. Denser near the waist (near the civic center), sparser near the tips (closer to the gate terminals).
+- **Markets and commercial districts** — the megastructure imports agricultural produce from the third planet, resources from the moon-analog, and industrial output from the Therrad workshops; all of it circulates here.
+- **Temple annexes** — the *Great Temple* is at the waist; smaller Temple sites are distributed throughout the crescents, especially in residential districts.
+- **Schools** — Vaeltharn Temple schools, Leadership administrative training, Korven vocational schools for young engineers not yet at the Therrad School of Engineering.
+- **Workshops and industrial spaces** — smaller-scale than the waist shipyards but present. Every Korven district has workshops. This is where the megastructure repairs itself.
+- **Vertical corridors and internal parks** — the Zenith infrastructure allows for interior open spaces, some with simulated sky. Green spaces exist but are engineered and finite.
+
+**A Velakhar born in a Soren-en residential district might live their whole life without going near a gate terminal or the waist docking bay.** They know their local neighborhood, their local Temple annex, their local market. The gate terminals are for travelers; the waist is for civic business.
+
+### Open items surfaced by this entry
+
+- **The Assembly of Worlds.** Does the Velakhar order have a broader representative body beyond the four-person Sevhar? Bible doesn't explicitly lock one. Proposal above treats it as real and physically located near Sevhar in the waist civic core, but this is not locked canon — it's an open design question.
+- **Specific inter-tube topology** — how many parallel tubes each route uses, whether the civic-route hub has one platform or many, express-vs-local scheduling. Held for later.
+- **The Kharvurn's dedicated military lanes and terminals inside Soren-en** — where exactly they are, how they relate to the civilian gate terminals and the waist port. Held for later.
+- **Green spaces / simulated sky districts** — how the megastructure handles the psychological need for open space when residents may never see the sky. Held for later.
 
 ---
