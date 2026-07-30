@@ -144,7 +144,7 @@ This is the real Velakhar in the main story. Not a monolith. **A civilization th
 
 ### Realistic transit time
 
-Between Velakhar worlds via Soren-en: **~3–4 hours door-to-door.** Not the 12–14 I mistakenly stacked earlier. Sethven Kavhen's canonical journey (Therrad household → moon-analog work site) breaks down roughly as:
+Between Velakhar worlds via Soren-en: **~3–4 hours door-to-door.** Not the 12–14 I mistakenly stacked earlier. A worker's example journey (Therrad household → moon-analog work site) breaks down roughly as:
 
 - Household → Therrad spaceport: 10 min light-rail
 - Ferry surface → Therrad orbital gate: 50 min high-thrust boost/coast/decel
@@ -179,9 +179,9 @@ Longer journeys exist (Halven pilgrimage, deep-frontier deployment, off-network 
 
 **The Vaeltharn's grip is different in each district.** Strongest at Halven Terminal. Contested at Third-planet Terminal — civilian traffic is where the cultural loosening from Entry #3 shows most clearly. Nominal at Therrad Terminal (military discipline substitutes for Temple discipline). Nominal at Moon-analog Terminal (workers pray but the Temple isn't heavy there). This distribution matters for the Vaeltharn vs. Leadership tension.
 
-### One correction to Sethven Kavhen's example journey
+### One correction to where the example worker lives
 
-Sethven Kavhen the Korven engineer lives on Therrad — because Korven head command is there and Korven engineers of her rank live in the households around that institutional center. Therrad has neighborhoods full of families of Marthar officers, Kharvurn crew, Korven engineers, and staff of the Therrad School of Engineering — but these are **military-family households**, not the general civilian population of the system. When Sethven Kavhen transits through the Therrad Gate Terminal, she is moving *through her own pillar's institutional gate* and has priority processing because she is Korven staff traveling on Korven orders. Her day feels like a soldier's day, not a commuter's day. The general civilian character of Velakhar life passes through the Third-planet Gate Terminal on the other side of the megastructure — a terminal Sethven Kavhen rarely enters unless her assignment routes her through it.
+A Korven engineer of the example journey's rank would live on Therrad — because Korven head command is there and Korven engineers of that rank live in the households around that institutional center. Therrad has neighborhoods full of families of Marthar officers, Kharvurn crew, Korven engineers, and staff of the Therrad School of Engineering — but these are **military-family households**, not the general civilian population of the system. When a Korven-staff traveler transits through the Therrad Gate Terminal, they are moving *through their own pillar's institutional gate* and get priority processing because they are Korven staff traveling on Korven orders. The day feels like a soldier's day, not a commuter's day. The general civilian character of Velakhar life passes through the Third-planet Gate Terminal on the other side of the megastructure — a terminal an institutional worker rarely enters unless their assignment routes them through it.
 
 ---
 
@@ -192,7 +192,7 @@ Sethven Kavhen the Korven engineer lives on Therrad — because Korven head comm
 
 **Why we locked it.** Once Entry #4 placed the four gates at the four crescent tips, the interior geography became a real design problem. Cross-crescent journeys must pass through the waist; the waist is a physically constrained section; the civic center, the transit crossroads, and the shipyards all want to sit there; and there is a real question whether they all fit. This entry works through the topology, the volume math, and where the pieces actually live — including the honest refinement that not everything belongs in the waist.
 
-**Also captures:** the rename from *Voren* to *Sethven Kavhen* for the example Korven engineer. *Voren* was rejected as a lazy name — *vor* is Valkry for the numeral four, so "Voren" was accidentally "Four-en." *Sethven Kavhen* is two syllables each, hard consonants, phonotactically clean Valkry, no lexicon collisions. Entry #4 has been updated to match.
+**No character names locked here.** The Korven engineer used to walk through the transit example is a *hypothetical worker*, not a named character. Earlier drafts of Entry #4 gave her a name; the name has been removed because she has no story purpose and does not belong being locked into working canon. Any character naming happens when the writing actually needs a person, not while sketching worked examples.
 
 ### Transit topology — same-crescent vs cross-crescent
 
@@ -302,7 +302,7 @@ For any cross-crescent journey, the traveler has options:
 2. **Express tube through the lower spine** — bypasses via the shipyard levels, slightly noisier/rougher, used for industrial and Kharvurn traffic.
 3. **Civic route through the central transit hub** — descends into the civic center, allows disembark at Sevhar viewing galleries, Leadership offices, the Great Temple. The default civilian route for most cross-crescent journeys — because most Velakhar want (or their business requires) some passage through the civic center. Where cultural mixing happens.
 
-**Sethven Kavhen going from Therrad Terminal → Third-planet Terminal on Leadership business** would probably take the civic-route tube. The full journey: upper-left tip → down the left crescent (~600 km) → across the upper spine (~150 km with detour through civic hub) → up the right crescent (~600 km) → arrive at upper-right tip. At 1,500–2,000 km/h vacuum-tube, about **45–60 minutes end-to-end.**
+**A traveler going from Therrad Terminal → Third-planet Terminal on Leadership business** would probably take the civic-route tube. The full journey: upper-left tip → down the left crescent (~600 km) → across the upper spine (~150 km with detour through civic hub) → up the right crescent (~600 km) → arrive at upper-right tip. At 1,500–2,000 km/h vacuum-tube, about **45–60 minutes end-to-end.**
 
 ### War vessels and the gates — where dreadnoughts actually go
 
