@@ -105,3 +105,65 @@ The military and technological fronts *harden* in the same period.
 This is the real Velakhar in the main story. Not a monolith. **A civilization that has succeeded enough to start softening at its edges, and whose elite is fighting a quiet cultural war against that softening.**
 
 ---
+
+## 4. Soren-en — Gate Placement, Waist Port, and Transit Reality
+
+**Date locked:** 2026-07-30
+**Status:** Provisional between us. Not in bible. This is a refinement of the existing Soren-en canon in the bible (which currently has one central Soren-en gate hub-and-spoke to three planetary gates + one external Halven gate, with a 25–30 km waist docking bay). The refinement below re-locates the gates, resizes the waist, and clarifies what each is for. When we do the pass, the current Soren-en System entry will need updating accordingly.
+
+**Why we locked it.** The current bible's model ("all gates cluster at Soren-en, waist port is the docking bay") does not give the megastructure a clear circulatory shape and undersizes the port. Reworking the model as *four gates at the four crescent tips + a separate waist port for direct-space traffic* gives Soren-en a real internal geography — four distinct terminal districts, plus a military/freight port — and a coherent explanation for why Soren-en functions as the *civilizational circulatory system*, not just a symbolic capital. It also introduces the Drennvar-fear detail that the gates are always open because the Drennvar cannot restart a gate that has been shut down.
+
+### The four gates
+
+- **Four gates, one at each of the four crescent tips.** Each aperture ~20–40 km across; surrounded by 100–200 km of Zenith gate machinery. Each gate occupies most of the crescent tip it is on.
+- **Assignments (provisional):**
+  - Upper-left tip → Therrad Gate
+  - Lower-left tip → Moon-analog Gate (second planet of Soren-en System)
+  - Upper-right tip → Third-planet Gate (naturally habitable third planet of Soren-en System)
+  - Lower-right tip → Halven Gate (the external pair, to Halven's system)
+- **Planetary-side gates remain as the bible currently describes them** — station-keeping orbital platforms in the target planet's orbit, paired to their Soren-en tip.
+- **All four gates are open 24/7 and cannot be closed.** Not by design — by fear. The Drennvar inherited the gates working. They know how to maintain them but not how to *restart* one from cold. If a gate ever shut down, they might not be able to bring it back. This is a well-known internal Drennvar secret; the Vaeltharn, the Halvethun, and Theven Maad know. The wider order does not. Officially the gates are open by design.
+- **Political consequence.** Refusing entry has to happen at the gate terminals, not at the gate aperture. The Leadership pillar runs customs at every terminal; the Kharvurn stands by with lethal force. The gate terminal districts have the heaviest Kharvurn ground defenses in the megastructure.
+- **Strategic vulnerability.** Because the gates cannot be closed, an enemy breaching a paired planetary gate arrives *inside Soren-en*. Because the gates run on Soren-en's stellar-collector array, they die if the collector array dies — which means the entire interstellar transit backbone of Velakhar civilization rides on the continued life of two dying red giants. The Drennvar has been quietly researching alternate power sources for centuries with no results.
+
+### The waist port
+
+- **The waist is for direct-space traffic only** — it is not a gate terminal. Kharvurn dreadnoughts returning from patrol, in-system freight travelling by direct engine-FTL, ships too large for gate transit, ceremonial and military arrivals, ships built at Kharvurn shipyards inside Soren-en that are entering service.
+- **Open on both sides of the megastructure.** Ships can enter or leave through either face of the waist opening. It is a *passage-through*, not a pocket.
+- **Revised dimensions (provisional):**
+
+  | Dimension | Reference visual | Revised |
+  |---|---|---|
+  | Docking bay width along the waist | 25–30 km | **100–150 km** |
+  | Structural thickness (front-to-back at waist) | 20–30 km | **50–80 km** |
+  | Center pinch opening (to space, both sides) | 26 km | **50–80 km** |
+  | Depth into the megastructure (multi-level docking) | — | **20–40 km vertical, multi-level** |
+
+- **Multi-level cavernous internal port.** Docking arms projecting inward from all sides; dry docks for shipyard work; freight elevators moving cargo deep into the megastructure; passenger terminals for people arriving on non-gate direct-space voyages. The waist is where the Kharvurn-thuun's operational command has offices. Civilians rarely enter unless they work here.
+- **Why the current 25–30 km is too small.** Individual Tharvurn-class dreadnought berths need 6–8 km of dock length each just to hold the ship, and the port has to accommodate multiple dreadnoughts, dozens of cruisers, hundreds of civilian and freight vessels, and Soren-en's shipyard exit lanes simultaneously — plus emergency reserve capacity. Earth's largest ports (Shanghai, LA) have ~30 km of dock frontage; the Velakhar's civilizational-scale central port needs to be several times that.
+
+### Realistic transit time
+
+Between Velakhar worlds via Soren-en: **~3–4 hours door-to-door.** Not the 12–14 I mistakenly stacked earlier. Voren's canonical journey (Therrad household → moon-analog work site) breaks down roughly as:
+
+- Household → Therrad spaceport: 10 min light-rail
+- Ferry surface → Therrad orbital gate: 50 min high-thrust boost/coast/decel
+- Gate transit: instantaneous
+- Arrive in Therrad Gate Terminal (upper-left tip of Soren-en). Leadership customs: 10–15 min for a routine Velakhar with valid papers.
+- Inter-tip vacuum-tube transit inside Soren-en (upper-left tip → lower-left tip, ~700 km): 30 min at 1,500–2,000 km/h
+- Board ferry at Moon-analog Gate Terminal; gate transit: instantaneous
+- Ferry: orbital gate → moon-analog sealed habitat landing site: ~45 min
+- **Door to door: ~3h 40m.**
+
+Longer journeys exist (Halven pilgrimage, deep-frontier deployment, off-network work) but for Soren-en-connected worlds this is the pace of ordinary Velakhar life. The megastructure is fast because Velakhar spaceflight is routine and the internal transit is Zenith-grade infrastructure retrofitted by the Drennvar.
+
+### Four terminal districts inside Soren-en
+
+Each crescent-tip terminal is its own neighbourhood:
+
+- **Therrad Gate Terminal (upper-left):** largest, busiest, civilian-heavy. Commuters, families, artists, merchants, multiple markets and restaurants, temple annexes. Feels like a proper city district.
+- **Moon-analog Gate Terminal (lower-left):** industrial. Extraction workers, machinery cargo, coveralls, harder edges.
+- **Third-planet Gate Terminal (upper-right):** quieter, more residential in feel. Families rotating to and from the naturally-habitable third planet, small temples, agricultural cargo.
+- **Halven Gate Terminal (lower-right):** the sacred district. Pilgrimage traffic, Vaeltharn priests, novice students moving to Halven Temple schools. Quiet, restrained, incense somewhere in the air. The Kharvurn detachment here is the most senior of the four — Halven-gate transit is Vaeltharn priority.
+
+---
