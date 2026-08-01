@@ -109,7 +109,7 @@ This is the real Velakhar in the main story. Not a monolith. **A civilization th
 ## 4. Soren-en — Gate Placement, Waist Port, and Transit Reality
 
 **Date locked:** 2026-07-30
-**Status update 2026-08-01:** GATE-PLACEMENT CLAIMS IN THIS ENTRY ARE RETIRED. The "four gates at the four crescent tips" model is superseded by Entry #6, which corrects the gate placement to a single central gate integrated with the waist docking-bay area (aligned with bible-canon). Non-gate portions of this entry — waist port dimensions, waist-as-civic-heart framing, terminal-district CHARACTER descriptions, and cultural distribution — remain valid, but any statement that spatially anchors a terminal district to a crescent tip is retired along with the gate placement.
+**Status update 2026-08-01 (revised):** Four-gates-at-four-tips model is RE-LOCKED. The mid-August retirement of this sub-section is REVERSED. The bible's "one central gate at Soren-en" model is the item being retired (from the bible, next pass). This entry's four-gates-at-four-tips model stands. Terminal districts anchored to the four crescent tips also re-locked. Reconciliation with Entry #6: the tips host GATE infrastructure (Zenith portal mechanism operating through the tip structure) but do NOT have large visible ship-apertures — gate transit is a portal effect, not a physical opening. Energy collection remains across the outer concave crescent faces, not at the tips.
 
 **Status:** Provisional between us. Not in bible. This is a refinement of the existing Soren-en canon in the bible (which currently has one central Soren-en gate hub-and-spoke to three planetary gates + one external Halven gate, with a 25–30 km waist docking bay). The refinement below re-locates the gates, resizes the waist, and clarifies what each is for. When we do the pass, the current Soren-en System entry will need updating accordingly.
 
@@ -190,7 +190,7 @@ A Korven engineer of the example journey's rank would live on Therrad — becaus
 ## 5. Soren-en Interior — Transit Topology, Waist as Civic Heart, Placement & Volume Math
 
 **Date locked:** 2026-07-30
-**Status update 2026-08-01:** TERMINAL-DISTRICT SPATIAL ANCHORING TO CRESCENT TIPS IS RETIRED. Entry #6 corrects the geometry: there are no gate apertures at the tips and the terminals cannot be located there. The "four cities in one" CULTURAL character (Therrad-district institutional, moon-analog industrial, third-planet civilian, Halven sacred) is preserved but re-anchored to interior transit hubs distributed through each crescent body rather than to the tips. All other content — hub structure, distributed vs waist-centric analysis, two-layers-of-life framing, transit layers, life-support math at waist scale — remains valid.
+**Status update 2026-08-01 (revised):** Terminal-district spatial anchoring to the four crescent tips is RE-LOCKED. The mid-August retirement of that anchoring is REVERSED. Four tip terminals stand: Therrad-district (upper-left), moon-analog (lower-left), third-planet (upper-right), Halven (lower-right). All content in this entry remains valid.
 
 **Status:** Provisional between us. Not in bible. Extends and refines Entry #4. Everything here is discussion-grade world-building that shapes how scenes inside Soren-en feel; the specific dimensions and placements are open to revision as we write.
 
@@ -439,11 +439,14 @@ Volume derivation: each crescent modelled as ~65% of a triaxial ellipsoid with s
 
 Bible says "roughly Luna in mass and dimension at half — planet-scale ~1,700 km order-of-magnitude." The 1,700 km DIMENSION matches. The half-Luna MASS (~3.7 × 10²² kg) forces average density of ~5×10⁸ kg/m³ over 64M km³, which is absurd (500,000× steel). Treat the bible's "half-Luna in mass and dimension" as scale-descriptor prose, not a literal physics constraint. Real numbers: 1,700 km overall extent, ~64M km³ enclosed volume, mass unlocked.
 
-### Tips are NOT apertures (LOCKED)
+### Tips host gates but have no physical apertures (LOCKED)
 
-The four bright hot spots at the crescent tips in the reference plate are the STRUCTURAL EXTREMES of the collection surface — where the outward-facing concave face terminates in a sharp curl at each corner. Concentration of collected energy at these edges causes them to glow hot. They are NOT gate apertures. NOT ship ports. NOT openings of any kind. The hull closes fully at each tip.
+The tips have gate INFRASTRUCTURE but no visible ship-through apertures. Reconciliation of the two seemingly-contradictory user directives:
 
-Entry #4 sub-section "The four gates" (four gates at the four crescent tips, planetary assignments upper-left/lower-left/upper-right/lower-right) is RETIRED.
+- The four crescent tips each host a GATE — Zenith portal-effect transit mechanism operating through the tip structure. Ships appear/disappear at the tip terminal by portal transit, not by flying through a hole in the hull.
+- The tips themselves have NO large visible openings for ships to fly through directly. The hull is structurally closed at each tip.
+- The bright hot spots at the tips in the reference plate are the STRUCTURAL EXTREMES of the collection surface — where the outward-facing concave face terminates in a sharp curl at each corner. Concentration of collected energy at these edges causes them to glow hot. That glow is not a gate aperture; it is the outer collection-band edge.
+- Both facts are consistent: gates exist at the tips (Entry #4 four-gate model, re-locked) AND there are no visible apertures at the tips.
 
 ### Energy collection surface (LOCKED)
 
@@ -463,28 +466,28 @@ Entry #4 sub-section "The four gates" (four gates at the four crescent tips, pla
 - Total hull surface area at these dimensions: ~1.5–2 million km².
 - Radiator surface required: **~2.5–3% of hull surface.** Distributed across the anti-sun-facing hull (the sides not looking at either red giant).
 
-### Gate placement — corrected
+### Gate placement — four gates at four crescent tips (LOCKED); bible's central-gate theory to be RETIRED FROM BIBLE at next pass
 
-- ONE central gate at Soren-en (per bible, hub-and-spoke to the three planetary gates + Halven).
-- Best defensible placement: gate machinery integrated with the waist docking-bay area. Machinery inside the reinforced waist spine (above and/or below the docking bay); gate transit aperture opens into or immediately adjacent to the waist port cavity.
-- Consequence: ALL in-system traffic — gate arrivals from the three planetary gates and Halven, AND direct-space arrivals from Kharvurn patrols and freight — flow through the same central hub. Which matches the bible characterization of Soren-en as the civilizational circulatory system.
-- Follows the natural reading of the reference visuals: waist port is where ships come in, from any origin.
+- FOUR gates, one at each crescent tip (Entry #4 model). Assignments: upper-left → Therrad; lower-left → moon-analog; upper-right → third planet; lower-right → Halven.
+- Bible currently says "one central gate at Soren-en, hub-and-spoke to three planetary gates + Halven." The bible's central-gate theory is RETIRED at the next bible pass, replaced by the four-tip-gates model.
+- Waist docking bay is for direct-space traffic only (Kharvurn dreadnoughts returning from patrol, in-system freight, ships too large for gate transit) — NOT a gate terminal.
+- Gate transit is a Zenith portal effect at each tip. Ships arrive/depart at the tip terminals via portal transit, not via visible ship-through apertures. Tips remain structurally closed.
+- All four gates open 24/7, cannot be closed (Drennvar-fear detail from Entry #4 preserved).
 
 ### Downstream consequences (for reference, not locked)
 
 - **Population density in the megastructure is ~3× tighter than earlier Entry #5 math implied.** 300–500M residents in ~43M km³ habitable (was 130M km³). Same hub structure, same ~1,000 km³ developed urban volume — but now 0.0023% of habitable (was 0.0008%). Still a thin skin. Still comfortable.
-- **"Four cities in one" CULTURAL character preserved.** The Therrad-flavoured / moon-analog-flavoured / third-planet-flavoured / Halven-flavoured character of the megastructure's interior districts is preserved from Entry #4/#5 — but re-anchored to interior transit hubs distributed through each crescent body, NOT to the tips. The character flows from the planetary partner whose traffic dominates that district's routing through the central gate, not from spatial adjacency to a tip terminal.
-- **Terminal architecture is REPLACED by hub architecture.** Instead of four large tip terminals, the megastructure has interior distribution hubs positioned along the internal transit spines, each associated with routing to/from one of the four partner destinations.
+- **"Four cities in one" CULTURAL character preserved with tip-terminal anchoring INTACT.** Therrad-flavoured upper-left, moon-analog-flavoured lower-left, third-planet-flavoured upper-right, Halven-flavoured lower-right — all as in Entry #4/#5. Character flows from the planetary partner whose gate opens at that tip.
 - **Life-support math (5 km³/year makeup water, 80 km³ vertical farms, algae bioreactors) all comfortably fits in the corrected 43M km³ habitable volume.** No systems break.
 
-### What this entry supersedes
+### What this entry supersedes and what stands
 
-- Entry #4 sub-section "The four gates" — RETIRED entirely
-- Entry #4 sub-section "Four terminal districts inside Soren-en" — CULTURAL content preserved, SPATIAL anchoring to tips retired
-- Entry #4 sub-section "The megastructure is four cities in one" — CULTURAL content preserved, SPATIAL anchoring to upper-left/upper-right/lower-left/lower-right quarters retired
+- Entry #4 four-gates-at-four-tips model — STANDS (this entry initially retired it; retirement is REVERSED as of 2026-08-01)
+- Entry #4 tip-terminal spatial anchoring — STANDS
 - Entry #5 total-megastructure volume implication ("200 million km³") — RETIRED, corrected to ~64M km³
 - Entry #5 habitable volume implication ("130 million km³") — RETIRED, corrected to ~43M km³
-- Entry #5 waist-only volume math (1.7M km³ waist, 90,000 km³ docking bay) — PRESERVED; those numbers describe the waist region only and are unaffected
+- Entry #5 waist-only volume math (1.7M km³ waist, 90,000 km³ docking bay) — PRESERVED
 - Entry #5 hub-distribution model, cultural framing, transit-layer stack, war-vessels-and-gates discussion — PRESERVED
+- Bible's "one central gate at Soren-en, hub-and-spoke" — TO BE RETIRED FROM BIBLE at next pass; replaced by four-tip-gates model
 
 ---
