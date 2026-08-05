@@ -38,7 +38,9 @@ This document tracks canon that has been provisionally locked in conversation bu
 ## 2. Velakhar Population — Two Numbers Plus a Distribution Rule
 
 **Date locked:** 2026-07-30
-**Status:** Provisional between us. Not in bible. Current bible still says 40–60 million at main story, which is wrong and needs to be replaced with the numbers below when we do the pass.
+**Status update 2026-08-05:** REVISED and APPLIED to bible. Total population re-anchored from ~2 billion to ~4 billion at main story (previous ~2B figure was a first-pass estimate; scene work and city-scale math indicated ~4B was the honest number for a mature 1,200-year civilization). AFF 0 starting population revised from ~75M to ~150M to make the growth curve to 4B feasible. Distribution rule unchanged (Soren-en 60% / Maren 3 12% / other + frontier 28%). See Entry #7 for the interior population split inside the Soren-en megastructure.
+
+**Status:** Applied to bible as of Aug 5, 2026.
 
 **Why we locked it.** The current bible number (40–60 million across 3–5 systems) collapses under any real anthropological math. A civilization abandoned from billions of Imperial citizens at BFF 1,300, grinding through 1,300 years of alien war down to a survivor population, then growing for 1,200 years post-Halven with a real doctrine and reconquests, ends up at billions — not tens of millions. 40–60M would make the 8%-under-arms military 3–5M, which cannot crew a real interstellar fleet, cannot hold frontier worlds, and cannot support 90,000 Lan-kary as an elite (they would be 0.15–0.22% of the population, which is a state religion, not an elite tier). The reconquest logic also fails at 40–60M — there is no population to move into reconquered worlds.
 
@@ -489,5 +491,103 @@ The tips have gate INFRASTRUCTURE but no visible ship-through apertures. Reconci
 - Entry #5 waist-only volume math (1.7M km³ waist, 90,000 km³ docking bay) — PRESERVED
 - Entry #5 hub-distribution model, cultural framing, transit-layer stack, war-vessels-and-gates discussion — PRESERVED
 - Bible's "one central gate at Soren-en, hub-and-spoke" — TO BE RETIRED FROM BIBLE at next pass; replaced by four-tip-gates model
+
+---
+
+## 7. Soren-en Interior — Coruscant-Style Waist City, Cell-Woven Walls, 80 Belly Hubs, Multi-Modal Transit, Light Discipline
+
+**Date locked:** 2026-08-05
+**Status:** Applied to bible as of Aug 5, 2026 (new Soren-en thread "Interior — The Waist City, Belly Hubs, and Transit"). Supersedes earlier interior speculation. This entry is the mature, book-worthy design of Soren-en's interior.
+
+**Why we locked it.** After extensive design conversation, the interior of Soren-en has a specific and novel character: mostly empty, mostly dark, mostly finished-by-nobody. The Zenith built the shell and vanished before the interior; the Velakhar have added the fraction of a percent of interior they need to live. This entry consolidates every design decision made in that conversation.
+
+### The core principles
+
+- **The Zenith built the shell, not the interior.** They finished pressurization, atmosphere, exterior collection surfaces, three of four tip gates, and the waist zone (space port + foundation architecture + gravity plating). They vanished before completing the interior gravity, lighting, or built structures. Backstory reason (not for the books): the 10,000-year Zenith War disrupted the project.
+- **The belly is dark, weightless, breathable.** Zenith environmental systems keep the atmosphere at Velakhar-standard conditions throughout. But there is no gravity in the belly (except in Velakhar-built hubs and terminals) and no lighting except at Velakhar-lit locations.
+- **Less than 0.003% of the interior envelope is developed.** The Velakhar occupy the megastructure like tenants in three rooms of a Versailles-scale palace. This is a permanent character of the setting.
+
+### The waist civic city — Coruscant-style vertical organism
+
+- **Location:** the seamless waist zone between the two crescents. Built on top of Zenith foundation architecture at the base.
+- **Form:** three-dimensional organic mass — not layered slabs. Buildings, plazas, hanging platforms, aerial walkways, enclosed districts stacked and stitched across altitude.
+- **Vertical geography as historical geography:** at the base sits Zenith foundation architecture (crystalline alien forms, structurally used but purpose-opaque). Above the Zenith base, the oldest Velakhar architecture (post-Founding, heavy, monumental). Successive generations built upward. At the top of the city, 200-year peace-dividend architecture — color, ornament, festival plazas, restaurants with hanging lanterns. To walk down through the city is to walk backward through Velakhar history.
+- **The shipyard is engulfed by the lower city.** Below the space port, the shipyard occupies the inverse throat wedge. But it isn't isolated industrial fringe — the city has grown to include it. Workers who build dreadnoughts live in the industrial districts of the lower city, alongside their neighborhoods, schools, markets, Temple annexes.
+- **Population:** ~300 million residents in the integrated civic city (upper civic districts + lower shipyard-industrial districts combined). Densest population centre in Velakhar space. Held together by the Zenith-native gravity of the waist zone.
+
+### The belly and its hubs
+
+- **The belly:** the vast interior volume between the two crescents. Zenith-pressurized, breathable, ~43 million km³ envelope. No gravity. No lighting. No structure.
+- **~80 belly hubs.** Arcology-scale floating settlements. Each ~4 million residents on average. Each has its own local Velakhar-generated gravity, lighting, atmosphere climate control, and city-scale civic organization. Combined hub population: ~320 million.
+- **How the hubs stay in place (open canon, three candidate models):**
+  - Candidate A — **Invisible Zenith Node Lattice.** The Zenith engineered a 3D lattice of stable anchor points throughout the interior. Saa mapped it. Each hub sits at a node.
+  - Candidate B — **Zenith Gravitational Fossils.** Dormant Zenith gravity generators scattered through the belly, waiting to be activated. Saa figured out how to wake them. Each hub sits over an activated fossil.
+  - Candidate C — **Standing-Wave Silences.** The Zenith substrate hums at specific harmonic frequencies; the belly has 3D standing wave patterns; hubs are anchored at silence-nodes where the substrate is momentarily still.
+  - Bible currently acknowledges "a mechanism Saa and the Drennvar engineered from Zenith-substrate discoveries — a Drennvar secret." One of the three (or a hybrid) will lock when we choose.
+- **Between the hubs:** empty, dark, weightless. Ships can fly through the belly (pressurized zero-g). People without transit access do not enter the belly on foot.
+
+### Wall material and layering — cell-woven, two materials, five layers
+
+- **The characteristic texture: cell-woven.** Fine cellular microstructure that appears smooth at distance but reveals texture up close. Named for description purposes only ("cell-woven"); no formal material name locked.
+- **Two Zenith materials — different substances, sharing the cell-woven texture.**
+  - Exterior: black cell-woven Zenith material. Protective against space hazards, heat, radiation, hostile particulate.
+  - Interior: pale cell-woven Zenith material. Radiation shield facing the belly.
+- **Full wall sandwich (five layers, outside inward):**
+  1. Black cell-woven armour (visible exterior)
+  2. Structural crystalline lattice
+  3. Power-distribution network (carries collection surface output through the megastructure)
+  4. Radiation-absorbent buffer
+  5. Pale cell-woven inner shield (visible interior)
+
+### Four tip terminal districts
+
+- Upper-left → Therrad terminal (institutional face)
+- Lower-left → moon-analog terminal (industrial face)
+- Upper-right → third-planet terminal (civilian face)
+- Lower-right → Halven terminal (sacred face)
+- Combined population: ~80 million residents plus transient traffic
+- Each carries the cultural character of its partner planet
+- Kharvurn ground defenses concentrated at each terminal
+
+### Interior transit — multi-modal
+
+- **Vacuum-tube maglev:** the backbone. Twin main lines along each crescent (upper and lower). Two cross-crescent express lines through the waist civic transit hub. Every tip is one transfer from every other tip. Speed 1,500–2,000 km/h. Same-crescent tip-to-tip ~30 min. Cross-crescent ~45–60 min including transfer.
+- **Direct-flight zero-g shuttles:** cross the belly for priority traffic (Kharvurn dispatch, executive, emergency response). Diagonal upper-tip to lower-opposite-tip in ~30 minutes.
+- **Freight tubes:** cargo, slower, larger diameter.
+- **Ceremonial Great Route:** along the upper crescent's inner belly with observation windows. Pilgrimage and dignitaries.
+- **Kharvurn military lanes:** hardened routes hidden in the outer structural mass. Not accessible to civilians.
+- **Central transit hub:** in the civic city, immediately above the space port. All maglev + shuttle routes converge here. One of the great civic buildings of Velakhar life.
+
+### Light discipline as cultural texture
+
+- Zenith left no interior lighting. All light in the interior is Velakhar-added.
+- Light exists at: the space port, four tip terminals, ~80 belly hubs, along transit routes, throughout the civic city.
+- Everywhere else — belly between hubs, unbuilt corridors, structural voids — is dark.
+- Cultural consequence: where light exists, humans live. Where light doesn't, humans do not go without a light source. Velakhar children raised in Soren-en have the phrase "into the dark" as a synonym for "outside our small piece of it." Light itself is the marker of civilization.
+
+### Internal security — planet-scale, multi-layered
+
+Soren-en is a civilizational body the size of a planet. Coverage matches:
+- Kharvurn ground defenses at each tip terminal (heaviest infantry/armor concentrations)
+- Kharvurn cruiser patrols at space port faces
+- Marthar internal security through civic city and transit routes
+- Drennvar restricted zones at gate machinery and classified R&D
+- Vaeltharn ceremonial guard at Great Temple and Halven terminal
+- Emergency response corps distributed through hubs
+
+### Interior population summary at ~700M total
+
+| Zone | Population |
+|---|---|
+| Waist civic city (upper civic + lower shipyard-industrial, integrated) | ~300 million |
+| 80 belly hubs (~4M each) | ~320 million |
+| Four tip terminal districts (combined) | ~80 million |
+| **Total inside Soren-en megastructure** | **~700 million** |
+
+### Open items to lock (three)
+
+1. **Hub station-keeping mechanism** — pick Candidate A (Node Lattice), B (Fossils), C (Silences), or a hybrid.
+2. **Precise Soren-en megastructure population split** — the 300M / 320M / 80M above is my recommendation; user may want to shift the balance (e.g., more in the civic city and fewer in the hubs, or vice versa).
+3. **Zenith foundation architecture scope** — bible currently pins it to the waist zone only. Confirm this is the full extent, or open a broader Zenith-completed zone.
 
 ---
