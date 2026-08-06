@@ -591,3 +591,58 @@ Soren-en is a civilizational body the size of a planet. Coverage matches:
 3. **Zenith foundation architecture scope** — bible currently pins it to the waist zone only. Confirm this is the full extent, or open a broader Zenith-completed zone.
 
 ---
+
+## 8. The FTL Ladder — Full Drive Progression (PROPOSED — approved shape, numbers provisional)
+
+**Date locked:** 2026-08-06
+**Status:** Provisional between us. Not in bible. Shape approved; specific speeds and two open knobs still being tuned. Will be written to the bible in one clean pass once gen-2 flavour is chosen. Supersedes the bible's current "engine-FTL ~1,000–1,500c" figure when applied — that number will be overwritten by the ladder below.
+
+**Why we locked it.** We needed the whole FTL progression to hang together — from the salvage era through Saa's modern drives — before touching the bible, so speeds stay internally consistent and downstream figures (fleet reach, governance lag, Soren-en's forced cosmopolitanism) can be re-derived against one coherent ladder.
+
+**Two yardsticks used throughout:** short hop = 100 light-years (system to neighbour); long haul = 2,500 light-years (Soren-en to the far frontier).
+
+### The Velakhar ladder
+
+| Gen | Drive | Era | Speed | Short hop | Long haul | Mechanism |
+|---|---|---|---|---|---|---|
+| 0 | Salvaged bubble | BFF 1,300 → AFF 200 | ~100c | 1 year | 25 years | Alien drives cut from wrecks; bubble warp — bends space around the hull. Crude, unreliable, killing crews |
+| 1 | First Korven bubble | AFF ~200 | ~300c | 4 months | ~8 years | First drive the Korven build themselves; same bubble physics, their own engineering |
+| 2 | Gen-2 — the fleet drive | Saa-era → main story | ~5,000c | ~1 week | ~6 months | The majority of Velakhar ships run this. FLAVOUR STILL OPEN (fold / draw / sink all rejected; better options owed) |
+| 3 | The Threadway | Saa + Drennvar, main story | ~15,000c | ~2.5 days | ~2 months | Elite drive. See detail below |
+
+### The Threadway (gen-3) — detail
+
+- Every Threadway ship carries a **caster** built into it — its own gate-mouth, a miniature piece of reverse-engineered Zenith gate-physics, Drennvar-built and hideously expensive. One per ship.
+- A jump: (1) CAST — the caster throws a **far-anchor** to the destination, a point it locks onto the way the Zenith gates know their partner mouth; near-instant, nothing physical crosses yet. (2) LATCH — ship-mouth and far-anchor snap into a single **thread**, a compressed line where both ends are nearly the same place. (3) RIDE — the ship is hauled down the thread; it never locally exceeds light speed, but the thread is compressed, so effective speed is ~15,000c. (4) RELEASE — arrive, far-anchor dissolves, caster stays aboard for the next throw.
+- **The gate stays with the ship — always.** It is the engine, not disposable infrastructure.
+- **Speed is a SUPPLY limit, not a physics limit.** The math permits instant / Star-Wars-fast transit. What caps it is the **ring-material** (name TBD) — scarce across Velakhar space and rare in their whole corner of the mini-galaxy. Small rings compress the thread only so far, hence ~15,000c in practice. Permanent story lever: a lode of ring-material would let the elite fleet leap toward instant overnight — a casus belli in the ground.
+- **No "known destination" requirement.** Unlike the Empire's Navigators, the Threadway does not need a clear mental picture of the target. It needs a PILOT skilled enough to navigate there. Known road or blind frontier, the drive doesn't care; pilot skill is the variable. Consequence: Velakhar elite ships can thread into UNKNOWN space the Empire literally cannot reach.
+- **Closely guarded, war-worthy tech.** An intact captured caster would be worth a war. Lan-kary ships likely under orders to scuttle rather than surrender one.
+- **The missing rung.** Zenith gates (fixed, instant) → Threadway caster (mobile, near-instant cast, fast finite ride) → someday a true mobile gate, if the Drennvar crack it. Gen-3 is the proof the endgame is possible, which is why Saa guards it.
+- **Limited to:** Lan-kary ships, top officials, Saa's ship, Devansh's ship.
+
+### The other approaches (NOT on the Velakhar ladder)
+
+| System | Who | Speed | Notes |
+|---|---|---|---|
+| Navigator observation-collapse | Empire / House Nyralis | ~30,000c | Size-blind (a freighter collapses as fast as a dreadnought). Needs a rare living Navigator per ship; losing one strands the vessel. Can only reach places a Navigator can clearly PICTURE — blind to unknown space |
+| Zenith gates | Velakhar (inherited) | instant | Fixed infrastructure. Four Soren-en tips + Halven external. Only working gates in Andromeda |
+| The Bridge | Zenith (inherited) | effectively instant | Andromeda ↔ Milky Way. Its own category — the story's founding mystery |
+
+### The two edges that make the war work
+
+- **Empire:** fast (~30,000c), size-blind, but SCARCE (Navigator-bound) and BLIND off known roads.
+- **Velakhar:** slower, but EVERY hull moves itself, any time, no Navigator — and a skilled pilot can thread into unknown space the Empire cannot reach. Slow but total, and the only true pioneers. The Velakhar pilot is a respected craft; the Empire's Navigator is a bonded, expendable caste. Cultural contrast worth keeping.
+
+### Why the Empire's tech has been frozen ~6,000 years (locked reasoning)
+
+Every Imperial power structure is threatened by innovation, so innovation is suppressed by self-interest, not law: the Nyralis FTL monopoly guards rather than improves; power sits in inherited Relics and bloodlines, not built capability; the eight-House equilibrium rewards domestic manoeuvring, never advancement; the Empire is a recovery civilization (salvaged Zenith fragments) that looks backward by instinct; and the longevity-elite gerontocracy turns over slowly. The Velakhar innovate because they will die if they don't — existential need versus imperial comfort. Plus Saa.
+
+### Still open
+
+1. **Gen-2 flavour** — fold / draw / sink all rejected; better options owed before the bible pass.
+2. **Threadway knob** — single throw any distance, or range-limited with re-casts (leaning single-throw).
+3. **Ring-material name** — TBD (user to name).
+4. When applied to the bible: overwrite the current ~1,000–1,500c engine-FTL figure; re-tier Kharvurn ship-class speeds; restate the Nyralis "~30× faster" line by class; restate the Drennvar's collapse-drive goal.
+
+---
