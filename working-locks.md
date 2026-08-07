@@ -595,7 +595,9 @@ Soren-en is a civilizational body the size of a planet. Coverage matches:
 ## 8. The FTL Ladder — Full Drive Progression (PROPOSED — approved shape, numbers provisional)
 
 **Date locked:** 2026-08-06
-**Status:** Provisional between us. Not in bible. Shape approved; specific speeds and two open knobs still being tuned. Will be written to the bible in one clean pass once gen-2 flavour is chosen. Supersedes the bible's current "engine-FTL ~1,000–1,500c" figure when applied — that number will be overwritten by the ladder below.
+**Status update 2026-08-06:** LOCKED AND APPLIED TO THE BIBLE. Gen-2 flavour chosen: THE BREAKWATER. The full ladder is now written across the bible (kharvurn FTL thread rewritten to the four-gen ladder + drive-ladder item + author's-note; transit table recomputed; korven, Lan-kary-fleet, and Nyralis cross-refs updated; old ~1,000c / ~1,200–1,500c / ~30x figures overwritten everywhere). Speeds are relative, per-ship, and author-adjustable. Two minor knobs still open (Threadway throw-model; ring-material name).
+
+**Status:** Applied to bible as of Aug 6, 2026.
 
 **Why we locked it.** We needed the whole FTL progression to hang together — from the salvage era through Saa's modern drives — before touching the bible, so speeds stay internally consistent and downstream figures (fleet reach, governance lag, Soren-en's forced cosmopolitanism) can be re-derived against one coherent ladder.
 
@@ -607,7 +609,7 @@ Soren-en is a civilizational body the size of a planet. Coverage matches:
 |---|---|---|---|---|---|---|
 | 0 | Salvaged bubble | BFF 1,300 → AFF 200 | ~100c | 1 year | 25 years | Alien drives cut from wrecks; bubble warp — bends space around the hull. Crude, unreliable, killing crews |
 | 1 | First Korven bubble | AFF ~200 | ~300c | 4 months | ~8 years | First drive the Korven build themselves; same bubble physics, their own engineering |
-| 2 | Gen-2 — the fleet drive | Saa-era → main story | ~5,000c | ~1 week | ~6 months | The majority of Velakhar ships run this. FLAVOUR STILL OPEN (fold / draw / sink all rejected; better options owed) |
+| 2 | Gen-2 — THE BREAKWATER | Saa-era → main story | ~5,000c | ~1 week | ~6 months | The majority of Velakhar ships. Builds a hardened prow of warped space and tears a breach open ahead of the hull, pours through, seals behind — a violent continuous breach, not a smooth bubble. LOCKED |
 | 3 | The Threadway | Saa + Drennvar, main story | ~15,000c | ~2.5 days | ~2 months | Elite drive. See detail below |
 
 ### The Threadway (gen-3) — detail
@@ -640,7 +642,7 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 
 ### Still open
 
-1. **Gen-2 flavour** — fold / draw / sink all rejected; better options owed before the bible pass.
+1. **Gen-2 flavour** — CLOSED. Chosen: the Breakwater.
 2. **Threadway knob** — single throw any distance, or range-limited with re-casts (leaning single-throw).
 3. **Ring-material name** — TBD (user to name).
 4. When applied to the bible: overwrite the current ~1,000–1,500c engine-FTL figure; re-tier Kharvurn ship-class speeds; restate the Nyralis "~30× faster" line by class; restate the Drennvar's collapse-drive goal.
