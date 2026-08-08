@@ -671,3 +671,13 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 - **"Demigod" is retained ONLY for Relic-wielders** (Relics, the Voice, the Relic Temple), never for the Lan-kar.
 
 **Still open:** the traditional-test form for succession; the Drennvar halo device's specifics and timing; the ring-material name (from Entry #8).
+
+## 10. "The Chosen" Retired — It Was a Placeholder for the Lan-kar/Lan-kary (LOCKED)
+
+"The Chosen" was an early **placeholder name** for the augmented-soldier class that became the **Lan-kary**. It is removed from the bible and folded into the Lan-kar/Lan-kary framework.
+
+- The Velakhar's augmented soldiers are the **Lan-kary** (black-blood augmentation + hollowness; metahuman, not demigod; ordinary lifespans). Nine Orders, each led by one **Lan-kar** (the strongest Lan-kary of that Order); the nine current Lan-kar are "the Nine."
+- **Augmented total: ~90,000+** (9 Orders × ~10k). The old Chosen figure (~150,000–250,000) and the old bio-augmentation spec (skeletal reinforcement, 2.5m) are **discarded**.
+- **Men only** (the augmentation requires male physiology; women cannot become Lan-kary or Lan-kar) and **open to any world** under the banner — both re-homed from the Chosen and locked in the Lan-kary Trials & Selection thread.
+- The Lan-kary are **structurally separate from the Marthar**; the augmentation program is Saa/Temple-run, so "the Chosen programme" was removed from the Marthar's institution list.
+- Incidental ordinary-word uses of "chosen" (e.g. "chosen as vessel", "chosen by hull") are untouched.
