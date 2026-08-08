@@ -648,3 +648,26 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 4. When applied to the bible: overwrite the current ~1,000–1,500c engine-FTL figure; re-tier Kharvurn ship-class speeds; restate the Nyralis "~30× faster" line by class; restate the Drennvar's collapse-drive goal.
 
 ---
+
+## 9. The Lan-kar Nerf — Mortal Augmented Humans, a Passed-Down Post, and Universe Lifespans (LOCKED)
+
+**Decided:** Option 3. The Lan-kar / Lan-kary are nerfed from demigods to metahumans.
+
+- **Augmented, not divine.** Every Lan-kary carries a measured, **internal** dose of Devansh's black blood — stronger, faster, tougher, larger, plus *hollowness* (immunity to alien psychic embedding). It does **not** surface as the visible black liquid that surrounds Devansh, and it does **not** blacken their eyes. Those are Devansh alone.
+- **Normal lifespans.** The augmentation grants **no longevity**. Lan-kar and Lan-kary alike live ordinary human spans (~80–100 years, often far less — they die in the fighting).
+- **"Lan-kar" is a POST, not a bloodline.** One per Order (nine total = "the Nine"), held by the strongest Lan-kary of that Order. It passes to a successor **named by the previous Lan-kar** or **decided by a traditional test** (form TBD, may differ by Order). The purest-vs-derivative purity tiering is gone: all augmented carry the same propagated black blood; a Lan-kar is simply the best, raised to the rank.
+- **Maugrath.** Current Lan-kar of Order I, the **~15th–16th** to hold that post across the Order's history, and the senior-most of the nine living Lan-kar. His personal story is kept (Caden 5Z war-orphan, four Choirs at 14, lost hand, survived augmentation, 14-ft giant, Order I doctrine) but **relocated to the recent/main timeline** and **decoupled from the program's founding** — no longer "first of the Nine," no longer ~1,000 years old. Height, hammer, prosthetic, armor unchanged. **Halo kept** but reframed as an advanced **Drennvar-engineered device** (badge of the office), later made by the Drennvar — not a supernatural aura.
+
+**Universe lifespans (LOCKED):**
+
+| Group | Lifespan |
+|---|---|
+| All humans — Imperial commoners, Velakhar, everyone | ordinary ~80–100 years |
+| Imperial elite with the longevity resource | ~150 years (was ~150–200) |
+| Lan-kar / Lan-kary (augmented) | ordinary ~80–100, often less (no longevity) |
+| Relic-wielders | age more slowly, outlast a natural span — **degree left OPEN** (separate from the resource and from the augmented) |
+
+- Velakhar **"100–150-year biological adaptation" is removed** — they have no special longevity.
+- **"Demigod" is retained ONLY for Relic-wielders** (Relics, the Voice, the Relic Temple), never for the Lan-kar.
+
+**Still open:** the traditional-test form for succession; the Drennvar halo device's specifics and timing; the ring-material name (from Entry #8).
