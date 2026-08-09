@@ -40,6 +40,8 @@ This document tracks canon that has been provisionally locked in conversation bu
 **Date locked:** 2026-07-30
 **Status update 2026-08-05:** REVISED and APPLIED to bible. Total population re-anchored from ~2 billion to ~4 billion at main story (previous ~2B figure was a first-pass estimate; scene work and city-scale math indicated ~4B was the honest number for a mature 1,200-year civilization). AFF 0 starting population revised from ~75M to ~150M to make the growth curve to 4B feasible. Distribution rule unchanged (Soren-en 60% / Maren 3 12% / other + frontier 28%). See Entry #7 for the interior population split inside the Soren-en megastructure.
 
+**Status update 2026-08-09:** RE-ANCHORED AGAIN to **~1 TRILLION** (a RELATIVE benchmark, author-adjustable) and APPLIED to bible. The ~4B figure was far too small for the locked footprint of **~50 fully controlled sectors + hundreds of frontier sectors** (sector counts themselves relative/illustrative, not literal). Rationale: the Empire never saw them not because they were small but because they were **invisible** — sealed behind dead Navigator-routes and a near-starless gulf until smuggler trade cracked it open ~200 years pre-main-story. New distribution: **~926B (~93%)** across the sectors + frontier; **Soren-en System (capital) ~44B (~4%)**; **Maren 3 System ~30B (~3%)**. The old 60/12/28 split and the "3–5 systems" framing are retired. Soren-en System set (relative): megastructure ~5B, Therrad ~25B, moon-analog ~4B, third planet ~10B. **8% under arms = ~80B** (includes all support/intel/logistics/naval crew). AFF 0 floor (<1M) and absorption-driven growth unchanged. See Entry #7 for the rescaled megastructure interior (700M → 5B).
+
 **Status:** Applied to bible as of Aug 5, 2026.
 
 **Why we locked it.** The current bible number (40–60 million across 3–5 systems) collapses under any real anthropological math. A civilization abandoned from billions of Imperial citizens at BFF 1,300, grinding through 1,300 years of alien war down to a survivor population, then growing for 1,200 years post-Halven with a real doctrine and reconquests, ends up at billions — not tens of millions. 40–60M would make the 8%-under-arms military 3–5M, which cannot crew a real interstellar fleet, cannot hold frontier worlds, and cannot support 90,000 Lan-kary as an elite (they would be 0.15–0.22% of the population, which is a state religion, not an elite tier). The reconquest logic also fails at 40–60M — there is no population to move into reconquered worlds.
@@ -48,10 +50,10 @@ This document tracks canon that has been provisionally locked in conversation bu
 
 1. **AFF 0 population:** ~75 million (range 50–100M). Battered survivor civilization, small handful of worlds. Starting point for post-Halven growth curve.
 2. **Main story population:** ~2 billion (range 1.5–2.5B). Mature power, mostly concentrated in Soren-en system.
-3. **Distribution rule:** Soren-en system holds ~60%, Maren 3 system ~12%, other controlled systems and frontier ~28% combined. Halven is pilgrimage-scale, not settlement-scale.
+3. **Distribution rule (as of the ~1T re-anchor):** the sectors + frontier hold ~93% (~926B); Soren-en System (capital) ~4% (~44B); Maren 3 System ~3% (~30B). The capital is the civic/political/religious heart, not the demographic centre. Halven is pilgrimage-scale, not settlement-scale.
 
 **Downstream consequences (for reference, not locked):**
-- 8% under arms at 2B = ~160M military — real interstellar-fleet scale.
+- 8% under arms = ~80B at ~1T (includes all support/intel/logistics/naval crew; front-line combatants are a fraction) — an austere, war-totalizing society.
 - 90,000 Lan-kary = 0.056% of military — tiny fraction by headcount, decisive by capability. Correct ratio for a demigod-tier elite.
 - Growth curve is not linear: slow first ~200 AFF, accelerating through Lan-kar reconquest era (~AFF 200–800), plateau in the last 200–300 years as Choir go near-extinct.
 
@@ -513,12 +515,12 @@ The tips have gate INFRASTRUCTURE but no visible ship-through apertures. Reconci
 - **Form:** three-dimensional organic mass — not layered slabs. Buildings, plazas, hanging platforms, aerial walkways, enclosed districts stacked and stitched across altitude.
 - **Vertical geography as historical geography:** at the base sits Zenith foundation architecture (crystalline alien forms, structurally used but purpose-opaque). Above the Zenith base, the oldest Velakhar architecture (post-Founding, heavy, monumental). Successive generations built upward. At the top of the city, 200-year peace-dividend architecture — color, ornament, festival plazas, restaurants with hanging lanterns. To walk down through the city is to walk backward through Velakhar history.
 - **The shipyard is engulfed by the lower city.** Below the space port, the shipyard occupies the inverse throat wedge. But it isn't isolated industrial fringe — the city has grown to include it. Workers who build dreadnoughts live in the industrial districts of the lower city, alongside their neighborhoods, schools, markets, Temple annexes.
-- **Population:** ~300 million residents in the integrated civic city (upper civic districts + lower shipyard-industrial districts combined). Densest population centre in Velakhar space. Held together by the Zenith-native gravity of the waist zone.
+- **Population:** ~2.15 billion residents in the integrated civic city (upper civic districts + lower shipyard-industrial districts combined). Densest single district in the megastructure. Held together by the Zenith-native gravity of the waist zone.
 
 ### The belly and its hubs
 
 - **The belly:** the vast interior volume between the two crescents. Zenith-pressurized, breathable, ~43 million km³ envelope. No gravity. No lighting. No structure.
-- **~80 belly hubs.** Arcology-scale floating settlements. Each ~4 million residents on average. Each has its own local Velakhar-generated gravity, lighting, atmosphere climate control, and city-scale civic organization. Combined hub population: ~320 million.
+- **~80 belly hubs.** Arcology-scale floating settlements. Each ~28 million residents on average. Each has its own local Velakhar-generated gravity, lighting, atmosphere climate control, and city-scale civic organization. Combined hub population: ~2.28 billion.
 - **How the hubs stay in place (open canon, three candidate models):**
   - Candidate A — **Invisible Zenith Node Lattice.** The Zenith engineered a 3D lattice of stable anchor points throughout the interior. Saa mapped it. Each hub sits at a node.
   - Candidate B — **Zenith Gravitational Fossils.** Dormant Zenith gravity generators scattered through the belly, waiting to be activated. Saa figured out how to wake them. Each hub sits over an activated fossil.
@@ -545,7 +547,7 @@ The tips have gate INFRASTRUCTURE but no visible ship-through apertures. Reconci
 - Lower-left → moon-analog terminal (industrial face)
 - Upper-right → third-planet terminal (civilian face)
 - Lower-right → Halven terminal (sacred face)
-- Combined population: ~80 million residents plus transient traffic
+- Combined population: ~570 million residents plus transient traffic
 - Each carries the cultural character of its partner planet
 - Kharvurn ground defenses concentrated at each terminal
 
@@ -579,10 +581,10 @@ Soren-en is a civilizational body the size of a planet. Coverage matches:
 
 | Zone | Population |
 |---|---|
-| Waist civic city (upper civic + lower shipyard-industrial, integrated) | ~300 million |
-| 80 belly hubs (~4M each) | ~320 million |
-| Four tip terminal districts (combined) | ~80 million |
-| **Total inside Soren-en megastructure** | **~700 million** |
+| Waist civic city (upper civic + lower shipyard-industrial, integrated) | ~2.15 billion |
+| 80 belly hubs (~28M each) | ~2.28 billion |
+| Four tip terminal districts (combined) | ~570 million |
+| **Total inside Soren-en megastructure** | **~5 billion** |
 
 ### Open items to lock (three)
 
