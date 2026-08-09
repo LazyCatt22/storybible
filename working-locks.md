@@ -687,3 +687,34 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 - **Men only** (the augmentation requires male physiology; women cannot become Lan-kary or Lan-kar) and **open to any world** under the banner — both re-homed from the Chosen and locked in the Lan-kary Trials & Selection thread.
 - The Lan-kary are **structurally separate from the Marthar**; the augmentation program is Saa/Temple-run, so "the Chosen programme" was removed from the Marthar's institution list.
 - Incidental ordinary-word uses of "chosen" (e.g. "chosen as vessel", "chosen by hull") are untouched.
+
+## 11. The Bridge — Crossing Is Open to Anyone; Operating It Is the Rare Thing (LOCKED)
+
+**Date locked:** 2026-08-09
+**Status:** Applied to bible (the-bridge entry, thread retitled "Why a Relic Is Required" → "Crossing vs. Operating the Bridge").
+
+**Why we locked it.** The bridge entry carried an old line claiming an ordinary human "would not survive" a crossing and that "a Relic is what makes the crossing survivable." That contradicted the bible's own canon: ordinary people cross (the Book One kidnap victims are carried Earth→Andromeda and arrive whole, then get stranded alive on Ossarai-Vhen). The rule is now inverted to match the story.
+
+**What's locked:**
+
+- **Crossing is survivable for ordinary people.** The bridge carries them across intact. Surviving a crossing does **not** require a Relic. (Saa's unembodied field-presence and Devansh's bargain-teleportation remain separate modes.)
+- **The rare, hard thing is OPERATING a bridge** — directing *when and where* it connects, rather than merely being carried across by one. That takes **uncommon vision and a deep working knowledge of how bridges function.** The specifics of that vision/knowledge are deliberately **left TBD** ("I would not go on specifics right now").
+- **A Relic still grants no control over the bridge's time-physics.** Devansh cannot speed, slow, or pause the clocks; he can cross and return, but he does not command the differential. He is a passenger in the time-physics of his own existence.
+- Aging suppression (Earth-humans in Andromeda age at Earth's rate) is a **bridge** property, not a Relic property — consistent with ordinary people crossing and returning barely aged.
+
+**Still open:** what "vision" and "knowledge to operate a bridge" concretely mean; whether Devansh's ability to use the bridge is tied to his Relic, to that vision/knowledge, or to the bargain — held for the writing.
+
+## 12. Lan-kar vs Lan-kary — the Nine Are a Distinct, Exceptional Tier (refines Entry #9)
+
+**Date locked:** 2026-08-09
+**Status:** Applied to bible (lankary Overview reworded).
+
+**Why we locked it.** Entry #9's nerf flattened the old purity tiers to "all augmented carry the same black blood; a Lan-kar is simply the best, raised to the rank," and set the appearance baseline as "a very large, very hard human — not a walking miracle." But Maugrath's canonical **14-foot** height reads as a walking miracle, and the author's intent is that **"the Lan-kar are different and unique compared to a normal Lan-kary."** This entry reconciles the two.
+
+**What's locked:**
+
+- The **"very large, very hard human — not a walking miracle" baseline describes the LAN-KARY** (the augmented rank-and-file). It is not the ceiling.
+- The **nine LAN-KAR** (the post-holders, one per Order) are **exceptional and individually unique** — visibly beyond the Lan-kary baseline, some beyond ordinary human scale. **Maugrath (Order I's living standard) stands fourteen feet** — his canonical height, retained.
+- This does **not** re-introduce the old purity-tier bloodline system. It is a distinction of **degree and individual expression at the top of the same augmentation**, not a separate divine class. Lan-kar and Lan-kary remain mortal metahumans with ordinary lifespans; "demigod" stays reserved for Relic-wielders only (Entry #9).
+
+**Open nuance (pin if it matters to the writing):** whether a Lan-kar's exceptional scale/uniqueness comes from a *heavier* augmentation dose given to the post-holder, or from being the *most extreme individual expression* of the same dose. The bible currently says the Lan-kar are "augmented further"; if you prefer the pure Entry-#9 "same blood, simply the strongest" reading, that phrase becomes "developed further." Left to the writing.
