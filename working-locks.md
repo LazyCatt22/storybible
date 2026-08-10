@@ -799,16 +799,18 @@ Organizing logic: a trillion people, many worlds, cut off in alien space, one ma
 
 **Story friction to keep:** the Inquisition and the Enforcement Arm OVERLAP — is a rebel governor a heretic (Inquisition, Temple-driven, Saa's leash) or a criminal (Enforcement Arm, Leadership's)? That jurisdiction fight IS the Temple-vs-Leadership war made concrete.
 
-### The Inquisition — uniform (current draft; author killed the robes + the investigate/judge-robe split)
+### The Inquisition — uniform (SCI-FI REWORK; author rejected the gothic/1700s version — no robes, no metal masks, no paper book, no wax seal)
 
-- **Silhouette:** a long, close-cut black COAT (not a robe) — structured shoulders, high stiff standing collar, fitted through the torso, straight to mid-calf, split at the back for stride. Architectural, vertical, severe. Under it: high-necked black tunic, fitted trousers, gloves, boots — all matte black. Hidden colour: the coat is LINED IN OXBLOOD — a flash of blood-red at vents/cuffs when they move. Gloves never come off — a bare Inquisitor hand is never seen (except the Hand's).
-- **The covers ARE the rank — "the face is earned"** (replaces the robe-colour idea): masks DECREASE as rank rises; concealment is for instruments, the face is for authority.
-  - **Inquisitor** (working rank — MERGE of the old bottom three: investigates, interrogates, charges, takes recantation) — FULL sculpted blackened-steel mask, smooth, narrow eye-slits. Faceless instrument. The figure ordinary Velakhar meet.
-  - **Judge-Inquisitor** (tries and sentences) — HALF-mask: covers upper face/eyes, leaves mouth + jaw BARE, because the one who speaks sentence must be seen speaking it.
-  - **The Hand** (head; answers to Saa + Sevhar) — NO mask. The only bare face in the Inquisition; the matter has gone as high as it can go.
-- **Rank badges** at the throat/collar-clasp, graded metal: Inquisitor = blackened steel; Judge-Inquisitor = silver; The Hand = silver + the order's single permitted thread of gold.
-- **The sigil:** a single level bar sealed inside a ring (the shut mouth / the sealed word / the level of the scale), struck in the rank metal.
-- **They carry:** THE REGISTER — the black book of names binding the condemned AND the recited dead in one volume (to be written in it IS the sentence); and THE SEAL — a stamp marking a door/person/world-charter as "under inquisition," liftable only by a Judge-Inquisitor.
+- **The suit:** a SEALED TECHNICAL LONGCOAT over a hardshell underlayer — matte black, sharp vertical cut, but a technical weave, not cloth: environment-sealed, self-closing seams, rated for boarding actions / contested / contaminated / vacuum-adjacent zones. Slim structural plating at shoulders/forearms/shins. High collar locks to the head-gear. ALWAYS SEALED — no exposed skin; gloves never come off (closed system + interface gear in the hands).
+- **Oxblood is LIGHT, not lining:** a thin red seam-line runs the suit — dark off-duty, LIT when active on a case. The only colour on them; means they're working.
+- **Covers = rank, re-skinned as tech ("the face is earned"):** the head-gear is a sensor/interface system; the more the machine mediates the person, the lower the rank.
+  - **Inquisitor** (working rank — MERGE of the old bottom three) — FULL SEALED HELM, featureless, no eye-slit, a continuous active optic band. Visor feeds them your bio-signs, your live file off the data-spine, deception readouts. The machine looks; they read. Faceless instrument.
+  - **Judge-Inquisitor** (tries and sentences) — HALF-HELM / open visor: eyes behind active optics, mouth + jaw BARE (the sentence is spoken by a visible mouth).
+  - **The Hand** (head; answers to Saa + Sevhar) — BARE-FACED, no helm, but a visible INTERFACE NODE at the temple, wired to the order's systems and quietly to Saa. The face is fully earned; the deepest link is its price.
+- **Rank by COLOUR** of the lit elements (throat glyph, optic band, seam): Inquisitor = OXBLOOD RED (open case); Judge-Inquisitor = WHITE (verdict); The Hand = GOLD (order's apex, lights for no one else). [The old white-robe/gold-badge ideas survive as light, not cloth.]
+- **The sigil:** a single level bar sealed inside a ring, rendered as a LIT GLYPH at the throat in the rank colour.
+- **The Register — a DATA BOOK** (author's concept, replaces the tome): a slate-form data unit, BLACK CASE, data burns in OXBLOOD-RED light — to be "written into the Register" is to watch your name render in red. Refinement: honored dead render in PALE WHITE, condemned in RED (the book shows its two halves at a glance). Binds the condemned + the recited dead in one archive.
+- **The Seal — a SYSTEM LOCK, not a stamp** (tied to the bureaucratic data-spine): to "seal" a person/door/ship/world-charter applies an Inquisition lock — travel revoked, standing/tithe suspended, records quarantined, gates/accounts frozen — and leaves a PROJECTED, tamper-evident brand (a glowing sigil in the setter's rank-colour), liftable only by a Judge-Inquisitor. Seen and enforced at once. "To be sealed is to become a locked door in your own life."
 
 ### Open / to develop
 - Names for every branch (all TBD — author has rejected several naming passes; do NOT guess again without a steer).
