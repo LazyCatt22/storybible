@@ -804,7 +804,7 @@ Organizing logic: a trillion people, many worlds, cut off in alien space, one ma
 - **The suit:** a SEALED TECHNICAL LONGCOAT over a hardshell underlayer — matte black, sharp vertical cut, but a technical weave, not cloth: environment-sealed, self-closing seams, rated for boarding actions / contested / contaminated / vacuum-adjacent zones. Slim structural plating at shoulders/forearms/shins. High collar locks to the head-gear. ALWAYS SEALED — no exposed skin; gloves never come off (closed system + interface gear in the hands).
 - **Oxblood is LIGHT, not lining:** a thin red seam-line runs the suit — dark off-duty, LIT when active on a case. The only colour on them; means they're working.
 - **Covers = rank, re-skinned as tech ("the face is earned"):** the head-gear is a sensor/interface system; the more the machine mediates the person, the lower the rank.
-  - **Inquisitor** (working rank — MERGE of the old bottom three) — FULL SEALED HELM, featureless, no eye-slit, a continuous active optic band. Visor feeds them your bio-signs, your live file off the data-spine, deception readouts. The machine looks; they read. Faceless instrument.
+  - **Enforcer** (working rank — MERGE of the old bottom three) — FULL SEALED HELM, featureless, no eye-slit, a continuous active optic band. Visor feeds them your bio-signs, your live file off the data-spine, deception readouts. The machine looks; they read. Faceless instrument.
   - **Judge-Inquisitor** (tries and sentences) — HALF-HELM / open visor: eyes behind active optics, mouth + jaw BARE (the sentence is spoken by a visible mouth).
   - **The Hand** (head; answers to Saa + Sevhar) — BARE-FACED, no helm, but a visible INTERFACE NODE at the temple, wired to the order's systems and quietly to Saa. The face is fully earned; the deepest link is its price.
 - **Rank by COLOUR** of the lit elements (throat glyph, optic band, seam): Inquisitor = OXBLOOD RED (open case); Judge-Inquisitor = WHITE (verdict); The Hand = GOLD (order's apex, lights for no one else). [The old white-robe/gold-badge ideas survive as light, not cloth.]
@@ -824,11 +824,13 @@ First Inquisition rank taken to a settled reference image. Rank read at a glance
 - **Arms/hands:** segmented armored black forearms, black gloves; holds a slim black data-slate (faint red screen) in one hand.
 - **Boots:** black. **Palette:** predominantly black; oxblood-red is the single order accent; white is the Judge's eye-band only. **Render:** painterly-realistic, matches the Marthar / Theven Maad cast look.
 
-The other two ranks reuse THIS exact suit, differing only by covers-as-rank: **INQUISITOR** (working rank) = full sealed helm, no bare face, rank-light oxblood-red; **THE HAND** (head) = no helm, bare face + temple interface node, single gold thread instead of white. (Formal home for finished character canon is `prompt-templates/locked-designs.md` when we promote it.)
+The other two ranks reuse THIS exact suit, differing only by covers-as-rank: **ENFORCER** (working rank) = full sealed helm, no bare face, rank-light oxblood-red; **THE HAND** (head) = no helm, bare face + temple interface node, single gold thread instead of white. (Formal home for finished character canon is `prompt-templates/locked-designs.md` when we promote it.)
 
-### The Inquisitor (working rank) — FINALIZED VISUAL + SIDEARMS (locked via image iteration, 2026-08-09)
+### The Enforcer (working rank; formerly 'Inquisitor') — FINALIZED VISUAL + SIDEARMS (locked via image iteration, 2026-08-09)
 
-The working rank is the armored FIELD operative — a distinct silhouette from the robed Judge. Rank read at a glance: **fully sealed faceless helm + white band + armored body = Inquisitor.**
+**NAMING (2026-08-09):** the working rank is now the **ENFORCER** — this replaces the placeholder 'Inquisitor' for that tier. Unchanged: the body is the Inquisition, the judiciary rank is the Judge-Inquisitor, and the head is the Hand.
+
+The working rank is the armored FIELD operative — a distinct silhouette from the robed Judge. Rank read at a glance: **fully sealed faceless helm + white band + armored body = Enforcer.**
 
 **The figure:**
 - **Head:** smooth featureless matte-black FULL helm, entire face sealed, one thin horizontal glowing WHITE eye-band. No bare face — that's what separates the working rank from the Judge's half-visor + bare jaw.
@@ -837,12 +839,12 @@ The working rank is the armored FIELD operative — a distinct silhouette from t
 - **Kit:** both sidearms holstered on the belt — SILENCER on one hip, REVOLVER on the other — plus a compact data-slate clipped at the hip (faint red glow). The big ceremonial Register + the seal stay with the Judges and the Hand.
 - **Palette / render:** matte black + oxblood-red accent + white band; painterly-realistic, neutral studio.
 
-**RANK NOTE (updated — supersedes the red/white/gold idea above):** rank is read from HELM/FACE COVERAGE, not band colour. Full sealed helm = Inquisitor; half-visor with bare jaw = Judge; bare face + temple node = the Hand. The band is WHITE on both helmed ranks. The earlier red/white/gold band-colour scheme is RETIRED.
+**RANK NOTE (updated — supersedes the red/white/gold idea above):** rank is read from HELM/FACE COVERAGE, not band colour. Full sealed helm = Enforcer; half-visor with bare jaw = Judge; bare face + temple node = the Hand. The band is WHITE on both helmed ranks. The earlier red/white/gold band-colour scheme is RETIRED.
 
 **THE TWO SIDEARMS (finalized designs):**
 - **THE REVOLVER — lethal, last resort.** Heavy matte-black austere sci-fi revolver, "built to outlast the man holding it." A fat rotating cylinder holds 5–6 heavy energy cartridges whose chambers glow oxblood-red; the MUZZLE FRONT is a thick GLOWING RED GLASS lens/core (the charged slug visible through the glass). Short thick barrel, slab frame, squared trigger guard, exposed hammer; textured black grip with a thin oxblood accent line; Velakhar emblem stamped on the frame. Single-action and deliberate — a judge's weapon; you pass a sentence one round at a time.
 - **THE SILENCER — non-lethal, PRIMARY.** Compact matte-black sci-fi non-lethal sidearm, clear sibling of the revolver. No barrel bore; the front emitter is GLOWING COLD-WHITE GLASS shaped as a circular lens at the muzzle plus a rectangular glass panel on top. Slab frame, squared trigger guard; textured black grip with a thin cold-white accent line; Velakhar emblem stamped on the frame. Fires a suppression pulse that "takes the voice first" and drops the target ALIVE for the reckoning.
-- **THE PAIRING:** silencer (white = capture) on one hip, revolver (red = kill) on the other — the Inquisitor literally wears the choice between recantation and the end. Doctrine: non-lethal FIRST (a dead heretic can't recant, be tried, or give up the cell); lethal only when capture fails or the Hand authorizes it.
+- **THE PAIRING:** silencer (white = capture) on one hip, revolver (red = kill) on the other — the Enforcer literally wears the choice between recantation and the end. Doctrine: non-lethal FIRST (a dead heretic can't recant, be tried, or give up the cell); lethal only when capture fails or the Hand authorizes it.
 
 ### THE HAND (head of the Inquisition) — FINALIZED VISUAL (locked via image iteration, 2026-08-09)
 
@@ -856,7 +858,7 @@ The apex of the Inquisition — answers to Saa and the Sevhar. Rank read at a gl
 - **Weapon (question now settled — the Hand DOES carry one):** a single REVOLVER worn in an OPEN, detailed belt holster, grip-up and visible, matched to the locked revolver design (red glass muzzle, oxblood chambers, emblem on frame); a short row of revolver cartridge loops on the belt (chambers glowing faint red) plus real belt hardware. He carries it as a mark of having risen through the ranks — but his true weapon is the whole Inquisition.
 - **Palette / render / presence:** matte black + oxblood-red + one restrained gold thread; bone prayer-cloth; painterly-realistic, neutral studio; stands utterly still — the last word.
 
-**ALL THREE INQUISITION RANKS NOW VISUALLY LOCKED.** Rank read summary: **INQUISITOR** = full sealed faceless helm + white band + hard armor + both sidearms (field operative); **JUDGE-INQUISITOR** = dome-helm half-visor (bare jaw) + white band + robe + data-slate (tries & sentences); **THE HAND** = bare face + temple node + single gold thread + robe + Register + seal + one open-holstered revolver (the apex).
+**ALL THREE INQUISITION RANKS NOW VISUALLY LOCKED.** Rank read summary: **ENFORCER** = full sealed faceless helm + white band + hard armor + both sidearms (field operative); **JUDGE-INQUISITOR** = dome-helm half-visor (bare jaw) + white band + robe + data-slate (tries & sentences); **THE HAND** = bare face + temple node + single gold thread + robe + Register + seal + one open-holstered revolver (the apex).
 
 ### Open / to develop
 - Names for every branch (all TBD — author has rejected several naming passes; do NOT guess again without a steer).
