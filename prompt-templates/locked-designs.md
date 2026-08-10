@@ -115,9 +115,9 @@ Droid anchor sref (bootstrapped from an earlier clean droid grid). Never uses th
 
 ---
 
-## THE INQUISITION — Velakhar Ranks
+## THE INQUISITION — Standard Rank Uniforms
 
-**Role:** The Velakhar's religious enforcement — the doctrinal sword. Three ranks, one shared suit re-skinned by rank. See the `inquisition` bible entry and working-locks §14.
+**What this locks:** the STANDARD UNIFORM of each of the three Inquisition ranks — the dress, gear, and how much of the face the uniform covers. These are offices, not characters: no individual office-holder's likeness is locked here (a Judge's or the Hand's actual face, age, and build are per-person and open). One shared suit, re-skinned by rank. See the `inquisition` bible entry and working-locks §14.
 
 ### Shared Uniform DNA (all three ranks) — Locked
 - **The base suit:** sealed technical matte-black longcoat over a hardshell underlayer. Sharp vertical cut, but a technical weave — not cloth — reading as environment-sealed (self-closing seams, rated for boarding / contested / vacuum-adjacent zones). Slim structural plating at shoulders, forearms, shins. High collar. Always sealed — no exposed skin below the rank-appropriate face; gloves never come off.
@@ -142,7 +142,7 @@ Droid anchor sref (bootstrapped from an earlier clean droid grid). Never uses th
 - **Read at a glance:** dome-helm half-visor (eyes covered) + BARE JAW + white band + robe + data-slate.
 
 ### THE HAND (head of the Inquisition; answers to Saa + the Sevhar) — Locked
-- **Head:** BARE, uncovered — no helm, no band. An older, austere, deeply composed man; close-cropped grey hair, heavy unhurried eyes. A small dark INTERFACE NODE at one temple (faintly lit) — his direct link to the order's systems and, quietly, to Saa. The one bare face in the whole order.
+- **Head:** BARE, uncovered — no helm, no band. The uniform standard is the exposed face itself (the one bare face in the whole order) plus a small dark INTERFACE NODE at one temple, faintly lit — the direct link to the order's systems and, quietly, to Saa. The actual face, age, hair, and build are the office-holder's own and are NOT locked here.
 - **Robe:** floor-length matte-black judiciary robe — the grandest and heaviest of the Inquisition — angular shoulder mantle/cape, high collar, thin oxblood edge-piping down the cape. Black armored gloves/forearms, black shoes.
 - **Emblem:** SMALL and SUBTLE — the Velakhar mark embroidered / tone-on-tone in matte oxblood on the breast, integrated into the cloth. NOT a medallion.
 - **Gold (the apex mark):** a single thin GOLD thread/cord at the shoulder, tying the bone-white prayer-cloth. The ONLY gold anywhere in the Inquisition; its restraint is the crown.
