@@ -781,3 +781,36 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 ### Still open (author to decide later)
 
 - Exact partial-vote weight for frontier/observer worlds; deadlock-breakers beyond the war-override; how absorption/admission of a new world is ratified; enforcement of the "one official religion" clause; the liturgical/astronomical session-timing specifics; the Dukhar Hall's physical design.
+
+## 14. Velakhar Law Enforcement & Security — the apparatus + the Inquisition (DESIGN IN PROGRESS — author rated the apparatus "ok," to refine later)
+
+**Date captured:** 2026-08-09
+**Status:** Design parked for later work. **Nothing written into the bible yet.** Ties into the ~1T population / faction-scale and the Dukhar governance (Entries #2, #13). Grounds on existing canon: the Leadership pillar's unnamed "enforcement arm"; Vesren Drath's "intelligence/heresy-hunting agency"; "most rebellions dealt with by Saa and the military arm"; the single official religion; the alien and Empire threats.
+
+### The apparatus — law enforcement is NOT one body; it's distributed across pillars, all under the Sevhar
+
+Organizing logic: a trillion people, many worlds, cut off in alien space, one mandatory faith → three security problems (ordinary order / threats within / threats without), no single body owning all three.
+
+1. **The Local Watch (per-world civil police)** — everyday crime and local law, policed by each member world under its OWN government; the Velakhar set the legal floor via the bureaucratic spine but don't run the beat. Varies world to world (Full vs Ward). The layer that touches ordinary life.
+2. **The Enforcement Arm (order-wide internal police — canon, under Leadership)** — cross-world crime, internal smuggling, and above all corruption WITHIN the Velakhar bureaucracy (incl. Leadership itself). Secular; answers to Theven Maad. (This is the body the bible already flags as needing a name.)
+3. **The Inquisition (religious enforcement)** — mandate: every world and person accepts the Quiet Lord and NO other god. Hunts heresy, apostasy, rival cults, and the religious face of sedition (to reject the order is apostasy). Answers to SAA + the SEVHAR; the TEMPLE leans on it constantly as its doctrinal sword. Its investigative wing is the likely home of Vesren Drath.
+4. **Intelligence — three directorates split by target:** ALIEN INTELLIGENCE (war's eyes — xenology, frontier recon; under the Marthar/Kharvurn; best-funded); EMPIRE INTELLIGENCE (foreign espionage on the Cindrel Imperium via the smuggler routes; answers close to Saa/Sevhar); INTERNAL INTELLIGENCE (secular dissent + political temperature of the Dukhar's worlds; feeds the Inquisition when dissent is heresy, the Marthar when it's armed).
+5. **The Marthar — the hammer.** Detection is intelligence's job; SUPPRESSION is the military's. Armed rebellion → the Marthar ends it. (Canon: rebellions crushed by Saa + the military arm.)
+
+**Story friction to keep:** the Inquisition and the Enforcement Arm OVERLAP — is a rebel governor a heretic (Inquisition, Temple-driven, Saa's leash) or a criminal (Enforcement Arm, Leadership's)? That jurisdiction fight IS the Temple-vs-Leadership war made concrete.
+
+### The Inquisition — uniform (current draft; author killed the robes + the investigate/judge-robe split)
+
+- **Silhouette:** a long, close-cut black COAT (not a robe) — structured shoulders, high stiff standing collar, fitted through the torso, straight to mid-calf, split at the back for stride. Architectural, vertical, severe. Under it: high-necked black tunic, fitted trousers, gloves, boots — all matte black. Hidden colour: the coat is LINED IN OXBLOOD — a flash of blood-red at vents/cuffs when they move. Gloves never come off — a bare Inquisitor hand is never seen (except the Hand's).
+- **The covers ARE the rank — "the face is earned"** (replaces the robe-colour idea): masks DECREASE as rank rises; concealment is for instruments, the face is for authority.
+  - **Inquisitor** (working rank — MERGE of the old bottom three: investigates, interrogates, charges, takes recantation) — FULL sculpted blackened-steel mask, smooth, narrow eye-slits. Faceless instrument. The figure ordinary Velakhar meet.
+  - **Judge-Inquisitor** (tries and sentences) — HALF-mask: covers upper face/eyes, leaves mouth + jaw BARE, because the one who speaks sentence must be seen speaking it.
+  - **The Hand** (head; answers to Saa + Sevhar) — NO mask. The only bare face in the Inquisition; the matter has gone as high as it can go.
+- **Rank badges** at the throat/collar-clasp, graded metal: Inquisitor = blackened steel; Judge-Inquisitor = silver; The Hand = silver + the order's single permitted thread of gold.
+- **The sigil:** a single level bar sealed inside a ring (the shut mouth / the sealed word / the level of the scale), struck in the rank metal.
+- **They carry:** THE REGISTER — the black book of names binding the condemned AND the recited dead in one volume (to be written in it IS the sentence); and THE SEAL — a stamp marking a door/person/world-charter as "under inquisition," liftable only by a Judge-Inquisitor.
+
+### Open / to develop
+- Names for every branch (all TBD — author has rejected several naming passes; do NOT guess again without a steer).
+- Local Watch variation across Full vs Ward worlds; the Enforcement-Arm/Inquisition jurisdiction rules; how the three intelligence directorates coordinate; where Vesren sits exactly.
+- Inquisition: further uniform detail as desired; whether Judge-Inquisitors carry a rod/blade of office; the Register's and seal's mechanics.
