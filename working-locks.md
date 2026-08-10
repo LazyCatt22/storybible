@@ -722,7 +722,9 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 ## 13. The Dukhar — the Velakhar Senate & the Politics of Soren-en (DESIGN IN PROGRESS — to develop later)
 
 **Date captured:** 2026-08-09
-**Status:** Design agreed in conversation, parked here to build out later. **Not yet written into the bible.** When we lock it, it will REVISE existing bible canon (see "Cleanup owed" below). Follows the ~1-trillion population + full-faction-scale update (Entry #2).
+**Status:** Design agreed in conversation. Follows the ~1-trillion population + full-faction-scale update (Entry #2).
+
+**Status update 2026-08-09:** the GOVERNANCE MODEL and NAMES below are now **WRITTEN INTO THE BIBLE** (velakhar-places Dukhar landmark + Valkry lexicon): elected senate, ≥60% to pass, tiered votes, membership covenant + single official religion, ~AFF 200–300 origin, monthly cadence; the silent-senate premise is retired and *vhen* = "world" is added. **Still design-later:** the Dukhar Hall's physical design, the cinematic set-pieces (kept below), exact partial-vote weights, session-timing specifics, and a dedicated `dukhar` / `sevhar` entry.
 
 **One-line concept.** The Velakhar are a human coalition marooned across a near-starless gulf, deep inside the Alien Sector — a religious war-state that grows by *absorbing* other abandoned human worlds. The **Sevhar** (four pillar-heads) is the executive; the **Dukhar** (elected senate of the member worlds) is the legislature that must pass what the Sevhar proposes.
 
@@ -737,11 +739,12 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 - **Cadence:** ~monthly sessions; a permanent senator/political class lives at Soren-en; real politicking between sessions. Session calendar anchored **primarily liturgical** (Quiet Lord calendar), **sometimes astronomical** (twin-star cycle) — specifics TBD by author.
 - **Saa** built the Dukhar and can steer it on the rare vote that touches her long game, but stays out of day-to-day hearings.
 
-### The name (proposed)
+### The name (LOCKED — in the bible)
 
-- **Common name: Dukhar** = *du* (plural) + *khar* (kin/host/a people) = "the peoples." Keep.
-- **Formal name: VHENKHAR** = *vhen* (world — coined root; also reparses Ossarai-**Vhen** as "the world of Ossarai") + *khar* (host/collective/assembly) = "the host of worlds" = **"Assembly of Worlds."** Parallels *Nothkhar*. Replaces the retired *Kharthar* "place of standing, not of talk" gloss.
-- Vocabulary: world = *vhen*; worlds = *du-vhen*; assembly/host = *khar*.
+- **Dukhar** = *du* (plural) + *khar* (kin/host/a people) = "the peoples." The senate's **only** name — plain and everyday.
+- **Vhenkhar / "Assembly of Worlds" — DROPPED** (author: "Dukhar is enough").
+- **NEW ROOT: *vhen* = "a world"** (added to the Valkry lexicon). Ossarai-**Vhen** now reads as "the world of Ossarai" — tie-in kept.
+- The old formal name *Kharthar* and the "named for standing, not talking" silence framing are **RETIRED** from the bible.
 
 ### Political mechanisms — IN
 
@@ -765,11 +768,11 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 - **The war-override as a moment** — when the Sevhar invokes emergency power, the Marthar-thuun stands and the hall goes still while the senate is overruled to its face.
 - **The floor sounds like the whole absorbed history** — senators speak in their own Valkry registers/accents (high-Valkar vs absorbed-substrate), so origin and class are audible in the room.
 
-### Cleanup owed when we lock (bible currently contradicts this design)
+### Cleanup — DONE (2026-08-09)
 
-- `valkry` lexicon: the *Kharthar* entry ("…the Velakhar do not name governing bodies for speech… named for standing on ground, not for talking") must be revised — the silent-senate premise is dead; replace with *Vhenkhar* = "Assembly of Worlds."
-- `velakhar-places`: "The Dukhar is a place of standing, not of talk" must be revised.
-- A dedicated `dukhar` bible entry to be written; the Dukhar Hall interior to be designed; Sevhar to get its own entry.
+- `valkry` lexicon: the *Kharthar* / "named for standing, not talking" item was **retired** and replaced with the *vhen* = "world" root. ✓
+- `velakhar-places`: "The Dukhar is a place of standing, not of talk" was **removed**; the landmark rewritten to the elected-senate governance model. ✓
+- **Still owed:** a dedicated `dukhar` bible entry (currently the Dukhar lives as the velakhar-places landmark + Valkry lexicon + cross-refs); the Dukhar Hall interior design; a dedicated `sevhar` entry.
 
 ### Still open (author to decide later)
 
