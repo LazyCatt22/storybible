@@ -826,6 +826,24 @@ First Inquisition rank taken to a settled reference image. Rank read at a glance
 
 The other two ranks reuse THIS exact suit, differing only by covers-as-rank: **INQUISITOR** (working rank) = full sealed helm, no bare face, rank-light oxblood-red; **THE HAND** (head) = no helm, bare face + temple interface node, single gold thread instead of white. (Formal home for finished character canon is `prompt-templates/locked-designs.md` when we promote it.)
 
+### The Inquisitor (working rank) — FINALIZED VISUAL + SIDEARMS (locked via image iteration, 2026-08-09)
+
+The working rank is the armored FIELD operative — a distinct silhouette from the robed Judge. Rank read at a glance: **fully sealed faceless helm + white band + armored body = Inquisitor.**
+
+**The figure:**
+- **Head:** smooth featureless matte-black FULL helm, entire face sealed, one thin horizontal glowing WHITE eye-band. No bare face — that's what separates the working rank from the Judge's half-visor + bare jaw.
+- **Body:** sealed matte-black hard-armor suit — segmented plate over shoulders / chest / forearms / thighs / shins, sleek not bulky (a precision hunter, not a Marthar line-soldier), over a short black combat coat/skirt. Black gloves and boots.
+- **Order DNA:** Velakhar emblem on the chest plate (oxblood-red four-pointed star in a ring, elongated lower point); thin oxblood-red edge-piping on the armor seams; a SMALL narrow bone-white prayer-cloth knotted at one shoulder, short fringed end.
+- **Kit:** both sidearms holstered on the belt — SILENCER on one hip, REVOLVER on the other — plus a compact data-slate clipped at the hip (faint red glow). The big ceremonial Register + the seal stay with the Judges and the Hand.
+- **Palette / render:** matte black + oxblood-red accent + white band; painterly-realistic, neutral studio.
+
+**RANK NOTE (updated — supersedes the red/white/gold idea above):** rank is read from HELM/FACE COVERAGE, not band colour. Full sealed helm = Inquisitor; half-visor with bare jaw = Judge; bare face + temple node = the Hand. The band is WHITE on both helmed ranks. The earlier red/white/gold band-colour scheme is RETIRED.
+
+**THE TWO SIDEARMS (finalized designs):**
+- **THE REVOLVER — lethal, last resort.** Heavy matte-black austere sci-fi revolver, "built to outlast the man holding it." A fat rotating cylinder holds 5–6 heavy energy cartridges whose chambers glow oxblood-red; the MUZZLE FRONT is a thick GLOWING RED GLASS lens/core (the charged slug visible through the glass). Short thick barrel, slab frame, squared trigger guard, exposed hammer; textured black grip with a thin oxblood accent line; Velakhar emblem stamped on the frame. Single-action and deliberate — a judge's weapon; you pass a sentence one round at a time.
+- **THE SILENCER — non-lethal, PRIMARY.** Compact matte-black sci-fi non-lethal sidearm, clear sibling of the revolver. No barrel bore; the front emitter is GLOWING COLD-WHITE GLASS shaped as a circular lens at the muzzle plus a rectangular glass panel on top. Slab frame, squared trigger guard; textured black grip with a thin cold-white accent line; Velakhar emblem stamped on the frame. Fires a suppression pulse that "takes the voice first" and drops the target ALIVE for the reckoning.
+- **THE PAIRING:** silencer (white = capture) on one hip, revolver (red = kill) on the other — the Inquisitor literally wears the choice between recantation and the end. Doctrine: non-lethal FIRST (a dead heretic can't recant, be tried, or give up the cell); lethal only when capture fails or the Hand authorizes it.
+
 ### Open / to develop
 - Names for every branch (all TBD — author has rejected several naming passes; do NOT guess again without a steer).
 - Local Watch variation across Full vs Ward worlds; the Enforcement-Arm/Inquisition jurisdiction rules; how the three intelligence directorates coordinate; where Vesren sits exactly.
