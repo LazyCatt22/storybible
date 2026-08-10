@@ -812,6 +812,20 @@ Organizing logic: a trillion people, many worlds, cut off in alien space, one ma
 - **The Register — a DATA BOOK** (author's concept, replaces the tome): a slate-form data unit, BLACK CASE, data burns in OXBLOOD-RED light — to be "written into the Register" is to watch your name render in red. Refinement: honored dead render in PALE WHITE, condemned in RED (the book shows its two halves at a glance). Binds the condemned + the recited dead in one archive.
 - **The Seal — a SYSTEM LOCK, not a stamp** (tied to the bureaucratic data-spine): to "seal" a person/door/ship/world-charter applies an Inquisition lock — travel revoked, standing/tithe suspended, records quarantined, gates/accounts frozen — and leaves a PROJECTED, tamper-evident brand (a glowing sigil in the setter's rank-colour), liftable only by a Judge-Inquisitor. Seen and enforced at once. "To be sealed is to become a locked door in your own life."
 
+### The Judge-Inquisitor — FINALIZED VISUAL (locked via image iteration, 2026-08-09)
+
+First Inquisition rank taken to a settled reference image. Rank read at a glance: **half-visor (eyes covered, jaw bare) + WHITE eye-band = Judge-Inquisitor.**
+
+- **Head:** smooth rounded matte-black dome-helm over the upper head, one thin horizontal GLOWING WHITE eye-band across the eyes (white = the verdict colour). Lower face BARE — stern human jaw, mouth, chin.
+- **Collar & prayer-cloth:** high black collar; a SMALL narrow bone/off-white prayer-cloth with short fringed ends showing at the throat/lapels (thin oxblood edge) — restrained, does not break the black.
+- **Mantle:** angular pointed black shoulder mantle with thin oxblood-red edge-piping.
+- **Emblem & centre line:** the Velakhar emblem (oxblood-red four-pointed compass-star in a ring, elongated lower point piercing the ring) as a breast insignia on the mantle's left; a single thin oxblood-red vertical line runs the full length of the coat and connects UP into the emblem (no separate circle).
+- **Coat:** floor-length matte-black coat, clean panel seams.
+- **Arms/hands:** segmented armored black forearms, black gloves; holds a slim black data-slate (faint red screen) in one hand.
+- **Boots:** black. **Palette:** predominantly black; oxblood-red is the single order accent; white is the Judge's eye-band only. **Render:** painterly-realistic, matches the Marthar / Theven Maad cast look.
+
+The other two ranks reuse THIS exact suit, differing only by covers-as-rank: **INQUISITOR** (working rank) = full sealed helm, no bare face, rank-light oxblood-red; **THE HAND** (head) = no helm, bare face + temple interface node, single gold thread instead of white. (Formal home for finished character canon is `prompt-templates/locked-designs.md` when we promote it.)
+
 ### Open / to develop
 - Names for every branch (all TBD — author has rejected several naming passes; do NOT guess again without a steer).
 - Local Watch variation across Full vs Ward worlds; the Enforcement-Arm/Inquisition jurisdiction rules; how the three intelligence directorates coordinate; where Vesren sits exactly.
