@@ -141,7 +141,7 @@ Droid anchor sref (bootstrapped from an earlier clean droid grid). Never uses th
 - **Coat:** floor-length matte-black, clean panel seams. **Arms/hands:** segmented armored black forearms, black gloves; holds a slim black data-slate (faint red screen) in one hand. **Boots:** black.
 - **Read at a glance:** dome-helm half-visor (eyes covered) + BARE JAW + white band + robe + data-slate.
 
-### THE HAND (head of the Inquisition; answers to Saa + the Sevhar) — Locked
+### THE HAND (head of the Inquisition; answers to Saa + Devansh only, outside the pillar government) — Locked
 - **Head:** BARE, uncovered — no helm, no band. The uniform standard is the exposed face itself (the one bare face in the whole order) plus a small dark INTERFACE NODE at one temple, faintly lit — the direct link to the order's systems and, quietly, to Saa. The actual face, age, hair, and build are the office-holder's own and are NOT locked here.
 - **Robe:** floor-length matte-black judiciary robe — the grandest and heaviest of the Inquisition — angular shoulder mantle/cape, high collar, thin oxblood edge-piping down the cape. Black armored gloves/forearms, black shoes.
 - **Emblem:** SMALL and SUBTLE — the Velakhar mark embroidered / tone-on-tone in matte oxblood on the breast, integrated into the cloth. NOT a medallion.
