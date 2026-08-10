@@ -718,3 +718,59 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 - This does **not** re-introduce the old purity-tier bloodline system. It is a distinction of **degree and individual expression at the top of the same augmentation**, not a separate divine class. Lan-kar and Lan-kary remain mortal metahumans with ordinary lifespans; "demigod" stays reserved for Relic-wielders only (Entry #9).
 
 **Open nuance (pin if it matters to the writing):** whether a Lan-kar's exceptional scale/uniqueness comes from a *heavier* augmentation dose given to the post-holder, or from being the *most extreme individual expression* of the same dose. The bible currently says the Lan-kar are "augmented further"; if you prefer the pure Entry-#9 "same blood, simply the strongest" reading, that phrase becomes "developed further." Left to the writing.
+
+## 13. The Dukhar — the Velakhar Senate & the Politics of Soren-en (DESIGN IN PROGRESS — to develop later)
+
+**Date captured:** 2026-08-09
+**Status:** Design agreed in conversation, parked here to build out later. **Not yet written into the bible.** When we lock it, it will REVISE existing bible canon (see "Cleanup owed" below). Follows the ~1-trillion population + full-faction-scale update (Entry #2).
+
+**One-line concept.** The Velakhar are a human coalition marooned across a near-starless gulf, deep inside the Alien Sector — a religious war-state that grows by *absorbing* other abandoned human worlds. The **Sevhar** (four pillar-heads) is the executive; the **Dukhar** (elected senate of the member worlds) is the legislature that must pass what the Sevhar proposes.
+
+### Locked rulings
+
+- **Two chambers, unequal.** SEVHAR = the 4 pillar-heads (Marthar, Korven, Vaeltharn, Leadership); makes civic/strategic/military decisions and enforces/implements them. DUKHAR = elected senators, one delegation per member world; **every law / civic / military change must clear the Dukhar, and passing requires ≥ 60% of the vote.**
+- **Senators are ELECTED** by the people of each member system/planet — true representatives of their worlds.
+- **Local autonomy.** Each member world keeps its own internal government (governors, councils, monarchies — varies world to world). The Velakhar do NOT dictate a world's internal leadership — the ONE requirement is that it fields elected senators to the Dukhar.
+- **The membership covenant (price of the banner)**, for full members AND partially-controlled/protected frontier worlds: (1) send elected senators; (2) accept the Quiet Lord as the **only official religion** — no other faith is official; (3) in return, protection + food/water/shelter/security in a warzone; (4) keep your own local government otherwise. Many worlds convert genuinely (the faith feeds them); some keep private reservations and don't follow it to the letter — but dissent stays private.
+- **Apportionment: TIERED (chosen).** Full members get full votes; protected/frontier worlds get partial or observer votes — a *ladder of belonging* that newly-absorbed worlds climb toward, and a built-in grievance engine.
+- **Timeline: single origin ~AFF 200–300**, founded alongside the Leadership pillar at the start of the great absorption/reconquest wave, as Saa's covenant instrument for drawing human worlds under the banner. Transit is NOT a constraint (senators reside at Soren-en), so no second phase is needed. (Soren-en was inherited with its gate structures already functional — four at the tips, only three ever connected, the fourth wired to nothing.)
+- **Cadence:** ~monthly sessions; a permanent senator/political class lives at Soren-en; real politicking between sessions. Session calendar anchored **primarily liturgical** (Quiet Lord calendar), **sometimes astronomical** (twin-star cycle) — specifics TBD by author.
+- **Saa** built the Dukhar and can steer it on the rare vote that touches her long game, but stays out of day-to-day hearings.
+
+### The name (proposed)
+
+- **Common name: Dukhar** = *du* (plural) + *khar* (kin/host/a people) = "the peoples." Keep.
+- **Formal name: VHENKHAR** = *vhen* (world — coined root; also reparses Ossarai-**Vhen** as "the world of Ossarai") + *khar* (host/collective/assembly) = "the host of worlds" = **"Assembly of Worlds."** Parallels *Nothkhar*. Replaces the retired *Kharthar* "place of standing, not of talk" gloss.
+- Vocabulary: world = *vhen*; worlds = *du-vhen*; assembly/host = *khar*.
+
+### Political mechanisms — IN
+
+- **Core vs. Frontier is the spine.** Core bloc (old fully-controlled worlds) husbands resources and holds the line; Frontier bloc (newly absorbed, half-controlled, bleeding on the alien border) wants protection, reconquest, resources now. The 60% bar means neither bloc passes anything alone — every war-tax and campaign is a forced deal between who pays (Core coin) and who bleeds (Frontier sons).
+- **War-emergency override (load-bearing).** The Sevhar can act WITHOUT the Dukhar for immediate military necessity — but it is costly to legitimacy; overuse feeds Frontier resentment and ties into the "oppression breeds rebellion" theme. The permanent alien war is the standing justification for executive overreach; the Dukhar exists partly to resist it.
+- **The Temple's whip.** State religion is mandatory, so the Vaeltharn (Halvethun) has real soft power over devout senators; the Sevhar's Temple-vs-Leadership tension plays out on the Dukhar floor.
+- **Crypto-dissenters.** Worlds that don't follow the faith "to the T" can't oppose it openly, so their senators resist quietly (abstain, bloc-trade, drag feet) — an intrigue layer.
+- **Saa, the ghost in the machine.** Rare, decisive, invisible interventions; the senate believes it governs itself, and mostly does.
+
+### Political mechanisms — OUT (rejected by author)
+
+- **The "silent senate" / flat, un-musical oratory idea is KILLED.** Senators speak normally and give real, **heartfelt speeches** (the book will have big emotional speeches on this floor). No style constraint on Velakhar political speech. The *vol* (voice/**song**) taboo applies only to sustained sung vowels in language/liturgy — NOT to ordinary or impassioned speech.
+
+### Cinematic set-pieces (to build the hall and the drama around)
+
+- **It meets inside a dead god's bones** — the hall is built into the megastructure's Zenith architecture; a fragile human coalition argues for its survival inside the tomb of the vanished god-tier civilization.
+- **The Hall of Worlds is a live map of the war** — every member world has a physical marker (standard/flame/stone). Joining raises a marker in ceremony; a world falling to the aliens shrouds its marker and darkens its senators' seats. The hall's state = the state of the coalition, across 1,000 years.
+- **Tier system as seating chart** — full members in the inner ring in the twin-star light; protected/frontier worlds in the outer ring in shadow. A world earning full membership is literally "brought into the light."
+- **The empty seat of the Quiet Lord** — a dais kept for Devansh, always empty (he returns rarely). Every law for a thousand years passed beneath it; the day he appears, the room detonates.
+- **Grief is the first order of business** — each session opens with the Recitation of the Dead (worlds and fallen since the last session). The casualty list is the shadow-agenda.
+- **The war-override as a moment** — when the Sevhar invokes emergency power, the Marthar-thuun stands and the hall goes still while the senate is overruled to its face.
+- **The floor sounds like the whole absorbed history** — senators speak in their own Valkry registers/accents (high-Valkar vs absorbed-substrate), so origin and class are audible in the room.
+
+### Cleanup owed when we lock (bible currently contradicts this design)
+
+- `valkry` lexicon: the *Kharthar* entry ("…the Velakhar do not name governing bodies for speech… named for standing on ground, not for talking") must be revised — the silent-senate premise is dead; replace with *Vhenkhar* = "Assembly of Worlds."
+- `velakhar-places`: "The Dukhar is a place of standing, not of talk" must be revised.
+- A dedicated `dukhar` bible entry to be written; the Dukhar Hall interior to be designed; Sevhar to get its own entry.
+
+### Still open (author to decide later)
+
+- Exact partial-vote weight for frontier/observer worlds; deadlock-breakers beyond the war-override; how absorption/admission of a new world is ratified; enforcement of the "one official religion" clause; the liturgical/astronomical session-timing specifics; the Dukhar Hall's physical design.
