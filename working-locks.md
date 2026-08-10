@@ -775,7 +775,8 @@ Every Imperial power structure is threatened by innovation, so innovation is sup
 
 - `valkry` lexicon: the *Kharthar* / "named for standing, not talking" item was **retired** and replaced with the *vhen* = "world" root. ✓
 - `velakhar-places`: "The Dukhar is a place of standing, not of talk" was **removed**; the landmark rewritten to the elected-senate governance model. ✓
-- **Still owed:** a dedicated `dukhar` bible entry (currently the Dukhar lives as the velakhar-places landmark + Valkry lexicon + cross-refs); the Dukhar Hall interior design; a dedicated `sevhar` entry.
+- Dedicated `dukhar` and `sevhar` bible entries — **DONE** (created 2026-08-09, placed right after `velakhar` in render order).
+- **Still owed:** the Dukhar Hall interior design + cinematic set-pieces; a Sevhar Chamber design; the liturgical/astronomical session-timing specifics.
 
 ### Still open (author to decide later)
 
