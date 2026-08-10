@@ -844,6 +844,20 @@ The working rank is the armored FIELD operative — a distinct silhouette from t
 - **THE SILENCER — non-lethal, PRIMARY.** Compact matte-black sci-fi non-lethal sidearm, clear sibling of the revolver. No barrel bore; the front emitter is GLOWING COLD-WHITE GLASS shaped as a circular lens at the muzzle plus a rectangular glass panel on top. Slab frame, squared trigger guard; textured black grip with a thin cold-white accent line; Velakhar emblem stamped on the frame. Fires a suppression pulse that "takes the voice first" and drops the target ALIVE for the reckoning.
 - **THE PAIRING:** silencer (white = capture) on one hip, revolver (red = kill) on the other — the Inquisitor literally wears the choice between recantation and the end. Doctrine: non-lethal FIRST (a dead heretic can't recant, be tried, or give up the cell); lethal only when capture fails or the Hand authorizes it.
 
+### THE HAND (head of the Inquisition) — FINALIZED VISUAL (locked via image iteration, 2026-08-09)
+
+The apex of the Inquisition — answers to Saa and the Sevhar. Rank read at a glance: **the one BARE FACE in the whole order + the single gold thread = the Hand.**
+
+- **Head:** BARE, uncovered — no helm. An older, austere, deeply composed man with close-cropped grey hair and heavy, unhurried eyes. A small dark INTERFACE NODE at one temple (faintly lit) — his direct link to the order's systems and, quietly, to Saa. No eye-band (no helm to carry one). The bare face is the whole point: the one figure who does not hide, because to stand before it is to know the matter has gone as high as it can go.
+- **Robe:** floor-length matte-black judiciary robe, the grandest and heaviest of the Inquisition, with the angular shoulder mantle/cape and high collar; thin oxblood-red edge-piping down the cape. Black armored gloves/forearms, black shoes.
+- **Emblem:** SMALL and SUBTLE — the Velakhar mark embroidered / tone-on-tone in matte oxblood-red on the breast, integrated into the cloth. NOT a medallion. (An earlier big gold-outlined chest medallion was rejected as attention-seeking and out of place — do not bring it back.)
+- **Gold (the apex mark):** a single thin GOLD thread/cord at the shoulder, tying the bone-white prayer-cloth. This is the ONLY gold anywhere in the Inquisition; its restraint is the crown. Gold appears here and nowhere else on him.
+- **Instruments:** the REGISTER (black data-book/slate glowing faint red with names) held in hand; a small SEAL device at the belt.
+- **Weapon (question now settled — the Hand DOES carry one):** a single REVOLVER worn in an OPEN, detailed belt holster, grip-up and visible, matched to the locked revolver design (red glass muzzle, oxblood chambers, emblem on frame); a short row of revolver cartridge loops on the belt (chambers glowing faint red) plus real belt hardware. He carries it as a mark of having risen through the ranks — but his true weapon is the whole Inquisition.
+- **Palette / render / presence:** matte black + oxblood-red + one restrained gold thread; bone prayer-cloth; painterly-realistic, neutral studio; stands utterly still — the last word.
+
+**ALL THREE INQUISITION RANKS NOW VISUALLY LOCKED.** Rank read summary: **INQUISITOR** = full sealed faceless helm + white band + hard armor + both sidearms (field operative); **JUDGE-INQUISITOR** = dome-helm half-visor (bare jaw) + white band + robe + data-slate (tries & sentences); **THE HAND** = bare face + temple node + single gold thread + robe + Register + seal + one open-holstered revolver (the apex).
+
 ### Open / to develop
 - Names for every branch (all TBD — author has rejected several naming passes; do NOT guess again without a steer).
 - Local Watch variation across Full vs Ward worlds; the Enforcement-Arm/Inquisition jurisdiction rules; how the three intelligence directorates coordinate; where Vesren sits exactly.
